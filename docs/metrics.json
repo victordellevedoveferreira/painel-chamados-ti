@@ -1,0 +1,99 @@
+{
+  "summary": {
+    "total_tickets": 800,
+    "resolved_tickets": 713,
+    "open_tickets": 87,
+    "resolution_rate": 89.1,
+    "avg_resolution_hours": 20.1,
+    "sla_rate": 75.2,
+    "avg_satisfaction": 3.99
+  },
+  "categories": [
+    {
+      "category": "Software",
+      "total": 182,
+      "avg_resolution_hours": 22.7,
+      "sla_rate": 75.9
+    },
+    {
+      "category": "Acesso e senha",
+      "total": 163,
+      "avg_resolution_hours": 20.2,
+      "sla_rate": 76.1
+    },
+    {
+      "category": "Hardware",
+      "total": 138,
+      "avg_resolution_hours": 20.4,
+      "sla_rate": 73.6
+    },
+    {
+      "category": "Rede e VPN",
+      "total": 131,
+      "avg_resolution_hours": 18.7,
+      "sla_rate": 69.8
+    },
+    {
+      "category": "E-mail",
+      "total": 116,
+      "avg_resolution_hours": 18.7,
+      "sla_rate": 77.9
+    },
+    {
+      "category": "Videoconferência",
+      "total": 70,
+      "avg_resolution_hours": 17.7,
+      "sla_rate": 79.7
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2026-01",
+      "total": 126,
+      "sla_rate": 74.1
+    },
+    {
+      "month": "2026-02",
+      "total": 115,
+      "sla_rate": 76.8
+    },
+    {
+      "month": "2026-03",
+      "total": 154,
+      "sla_rate": 75.4
+    },
+    {
+      "month": "2026-04",
+      "total": 124,
+      "sla_rate": 78.8
+    },
+    {
+      "month": "2026-05",
+      "total": 150,
+      "sla_rate": 73.1
+    },
+    {
+      "month": "2026-06",
+      "total": 131,
+      "sla_rate": 73.5
+    }
+  ],
+  "priorities": [
+    {
+      "priority": "Média",
+      "total": 410
+    },
+    {
+      "priority": "Baixa",
+      "total": 190
+    },
+    {
+      "priority": "Alta",
+      "total": 158
+    },
+    {
+      "priority": "Crítica",
+      "total": 42
+    }
+  ]
+}
