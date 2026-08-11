@@ -1,14 +1,14 @@
 # Painel de Chamados de TI
 
-Projeto de portfolio que simula a analise de uma operacao de suporte tecnico: geracao de dados ficticios, limpeza com Python e pandas, consultas SQL em SQLite e um dashboard HTML interativo.
+Projeto de portfolio que simula uma operacao de suporte tecnico: geracao de dados ficticios, tratamento com Python e pandas, consultas SQL em SQLite e dashboard HTML interativo.
 
-> Os dados sao sinteticos, reproduziveis e nao representam usuarios, equipamentos ou atendimentos reais.
+> Os dados sao sinteticos e reproduziveis; nao representam usuarios, equipamentos ou atendimentos reais.
 
-## Objetivo
+**Demonstracao online:** [Abrir dashboard](https://victordellevedoveferreira.github.io/painel-chamados-ti/)
 
-Transformar uma base de chamados em indicadores uteis para a tomada de decisao:
+## Indicadores analisados
 
-- volume e taxa de resolucao;
+- volume e taxa de resolucao de chamados;
 - cumprimento de SLA;
 - tempo medio de resolucao;
 - satisfacao dos usuarios;
@@ -20,13 +20,12 @@ Transformar uma base de chamados em indicadores uteis para a tomada de decisao:
 - SQLite e SQL
 - HTML, CSS e JavaScript
 - ETL, validacao de dados, KPIs e SLA
-- Git e GitHub
 
 ## Estrutura
 
     data/       # dados sinteticos brutos e tratados
     docs/       # dashboard e metricas exportadas
-    src/        # geracao de dados, ETL, metricas e banco SQLite
+    src/        # geracao de dados, ETL, metricas e SQLite
     tests/      # testes automatizados
 
 ## Como executar
@@ -38,18 +37,11 @@ Transformar uma base de chamados em indicadores uteis para a tomada de decisao:
     python -m unittest discover -s tests -v
     Start-Process .\docs\index.html
 
-## Qualidade e seguranca dos dados
+## Qualidade dos dados
 
 O pipeline valida colunas obrigatorias, datas, identificadores duplicados e tempos de resolucao negativos. Chamados ainda abertos nao entram no calculo de tempo medio nem de SLA.
-
-## Proximos passos
-
-- publicar o dashboard no GitHub Pages;
-- criar uma versao equivalente no Power BI;
-- adicionar testes de integracao para o banco SQLite;
-- incluir analise de causa raiz para chamados recorrentes.
 
 ## Autor
 
 Victor Dellevedove Ferreira  
-[LinkedIn](https://www.linkedin.com/in/victor-ferreira-114b34256) · [GitHub](https://github.com/victordellevedoveferreira)
+[LinkedIn](https://www.linkedin.com/in/victor-dellevedove-ferreira-114b34256/) · [GitHub](https://github.com/victordellevedoveferreira)
