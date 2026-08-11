@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+
+# O banco pode ser recriado com o pipeline.
+data/database/*.db
+
