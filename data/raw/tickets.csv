@@ -1,0 +1,801 @@
+ticket_id,created_at,resolved_at,category,priority,channel,location,analyst,status,satisfaction,sla_hours
+696,2026-01-01 12:39:54,2026-01-02 18:35:06,Videoconferência,Baixa,Presencial,Unidade Sul,Carla,Resolvido,3,48
+12,2026-01-01 23:07:27,2026-01-02 18:46:27,E-mail,Baixa,E-mail,Unidade Norte,Carla,Fechado,4,48
+700,2026-01-02 03:56:33,2026-01-03 20:09:45,Rede e VPN,Baixa,Portal,Sede,Ana,Fechado,5,48
+374,2026-01-02 06:31:05,2026-01-03 08:11:17,E-mail,Média,Telefone,Remoto,Diego,Resolvido,3,24
+359,2026-01-02 10:18:29,2026-01-04 15:53:17,Rede e VPN,Média,Telefone,Remoto,Carla,Resolvido,5,24
+47,2026-01-02 11:28:39,2026-01-04 17:50:51,Hardware,Baixa,E-mail,Remoto,Bruno,Fechado,4,48
+270,2026-01-02 13:43:23,2026-01-03 19:58:23,Acesso e senha,Baixa,Telefone,Sede,Bruno,Fechado,4,48
+577,2026-01-02 14:50:46,2026-01-02 17:38:46,Videoconferência,Média,Presencial,Unidade Sul,Diego,Resolvido,4,24
+229,2026-01-03 09:09:22,2026-01-03 14:21:58,Hardware,Alta,Telefone,Remoto,Diego,Fechado,4,8
+220,2026-01-03 17:30:41,2026-01-04 11:49:53,Hardware,Média,E-mail,Remoto,Bruno,Fechado,5,24
+55,2026-01-03 18:57:47,2026-01-05 23:42:11,E-mail,Baixa,Telefone,Remoto,Diego,Fechado,3,48
+333,2026-01-03 19:24:59,2026-01-05 03:24:59,E-mail,Média,Telefone,Unidade Norte,Diego,Fechado,2,24
+584,2026-01-03 20:06:26,2026-01-03 21:40:02,Hardware,Alta,E-mail,Unidade Norte,Bruno,Fechado,3,8
+184,2026-01-04 01:38:13,2026-01-04 16:52:01,E-mail,Média,Telefone,Sede,Diego,Fechado,5,24
+752,2026-01-04 10:44:40,2026-01-05 06:06:16,Videoconferência,Média,E-mail,Unidade Norte,Ana,Fechado,5,24
+537,2026-01-04 12:30:53,2026-01-04 23:15:17,Acesso e senha,Crítica,Presencial,Unidade Norte,Bruno,Fechado,4,4
+757,2026-01-04 18:14:57,2026-01-05 02:46:45,Software,Média,Portal,Unidade Norte,Ana,Resolvido,5,24
+130,2026-01-04 20:57:37,2026-01-05 20:58:13,Acesso e senha,Média,Portal,Sede,Carla,Resolvido,1,24
+14,2026-01-05 02:46:05,,Hardware,Alta,Telefone,Unidade Norte,Ana,Em andamento,,8
+766,2026-01-05 04:19:34,2026-01-06 21:55:34,Software,Baixa,Presencial,Remoto,Carla,Fechado,3,48
+723,2026-01-05 09:50:16,2026-01-07 03:05:16,Acesso e senha,Baixa,Telefone,Unidade Norte,Diego,Fechado,4,48
+288,2026-01-05 14:07:17,2026-01-05 23:12:41,Rede e VPN,Alta,Presencial,Sede,Carla,Resolvido,4,8
+565,2026-01-05 14:41:53,,Hardware,Baixa,Telefone,Remoto,Carla,Em andamento,,48
+676,2026-01-05 21:09:11,2026-01-05 23:18:11,E-mail,Crítica,Portal,Sede,Carla,Fechado,5,4
+366,2026-01-05 22:41:48,2026-01-07 04:22:36,Hardware,Média,E-mail,Unidade Sul,Diego,Fechado,4,24
+572,2026-01-06 03:33:21,2026-01-06 20:52:33,E-mail,Média,Telefone,Unidade Norte,Ana,Fechado,4,24
+605,2026-01-06 19:10:28,2026-01-07 14:09:52,Acesso e senha,Média,Presencial,Unidade Sul,Carla,Fechado,4,24
+643,2026-01-06 22:33:53,2026-01-07 05:22:29,E-mail,Alta,Portal,Unidade Sul,Ana,Fechado,5,8
+616,2026-01-06 23:48:39,2026-01-09 03:46:51,E-mail,Média,Portal,Sede,Ana,Fechado,3,24
+518,2026-01-08 04:37:55,2026-01-08 21:01:55,Software,Média,Telefone,Sede,Carla,Fechado,5,24
+324,2026-01-08 15:48:45,,Rede e VPN,Média,Telefone,Unidade Norte,Ana,Em andamento,,24
+137,2026-01-08 18:30:20,2026-01-09 17:48:20,E-mail,Média,Telefone,Unidade Norte,Bruno,Resolvido,3,24
+578,2026-01-09 12:49:10,2026-01-10 09:53:58,Hardware,Baixa,Portal,Unidade Norte,Carla,Fechado,4,48
+80,2026-01-09 19:24:40,,Software,Média,Presencial,Remoto,Bruno,Em andamento,,24
+272,2026-01-09 20:35:24,2026-01-10 07:27:36,E-mail,Baixa,Portal,Sede,Bruno,Fechado,5,48
+232,2026-01-10 00:14:17,2026-01-12 00:25:05,Acesso e senha,Baixa,E-mail,Unidade Sul,Diego,Resolvido,2,48
+487,2026-01-10 04:00:32,2026-01-11 00:31:44,Software,Média,Telefone,Sede,Ana,Fechado,4,24
+441,2026-01-10 20:45:20,2026-01-11 16:51:56,Software,Média,Portal,Unidade Sul,Diego,Fechado,3,24
+24,2026-01-11 01:40:48,2026-01-11 23:22:12,Software,Média,Portal,Unidade Norte,Diego,Resolvido,4,24
+166,2026-01-11 03:32:07,2026-01-11 18:35:43,Software,Média,Portal,Remoto,Bruno,Resolvido,1,24
+21,2026-01-11 03:45:31,2026-01-14 01:50:19,Software,Média,Presencial,Unidade Norte,Diego,Resolvido,3,24
+658,2026-01-11 05:18:52,2026-01-11 05:42:52,Acesso e senha,Média,Telefone,Sede,Diego,Fechado,4,24
+639,2026-01-11 16:02:00,2026-01-11 16:26:00,Acesso e senha,Alta,Portal,Remoto,Ana,Resolvido,4,8
+136,2026-01-11 16:11:42,2026-01-13 14:51:54,Hardware,Média,Telefone,Unidade Norte,Bruno,Resolvido,2,24
+527,2026-01-12 09:05:20,2026-01-13 11:07:08,Rede e VPN,Baixa,Portal,Sede,Bruno,Fechado,5,48
+284,2026-01-12 17:03:17,2026-01-14 11:11:05,Software,Baixa,Portal,Unidade Norte,Diego,Resolvido,5,48
+414,2026-01-12 23:47:23,2026-01-13 00:55:47,Hardware,Alta,Telefone,Unidade Sul,Ana,Resolvido,4,8
+139,2026-01-13 12:42:09,2026-01-13 22:39:09,E-mail,Alta,Telefone,Unidade Norte,Diego,Resolvido,3,8
+459,2026-01-14 06:22:05,2026-01-14 19:15:29,Hardware,Média,Presencial,Unidade Norte,Diego,Fechado,1,24
+755,2026-01-14 09:47:11,2026-01-16 00:05:11,Software,Baixa,E-mail,Unidade Sul,Ana,Fechado,5,48
+748,2026-01-14 14:00:29,2026-01-14 16:34:05,Rede e VPN,Alta,Portal,Unidade Norte,Carla,Resolvido,5,8
+360,2026-01-15 11:38:56,2026-01-16 20:08:56,Hardware,Baixa,Portal,Unidade Sul,Bruno,Fechado,5,48
+162,2026-01-15 12:04:44,2026-01-16 11:07:08,Acesso e senha,Média,Telefone,Remoto,Bruno,Resolvido,5,24
+27,2026-01-15 13:25:10,2026-01-16 02:35:58,Software,Média,Telefone,Sede,Carla,Resolvido,4,24
+721,2026-01-15 15:36:43,2026-01-15 19:45:43,Software,Média,E-mail,Unidade Norte,Carla,Fechado,5,24
+149,2026-01-15 21:43:01,2026-01-17 18:31:37,Software,Média,E-mail,Sede,Bruno,Fechado,3,24
+746,2026-01-16 04:40:21,2026-01-17 02:18:09,Software,Baixa,Presencial,Remoto,Carla,Resolvido,2,48
+124,2026-01-16 05:35:32,2026-01-16 23:21:44,Videoconferência,Média,Portal,Remoto,Bruno,Fechado,5,24
+450,2026-01-16 13:43:52,2026-01-17 22:19:52,Videoconferência,Baixa,Portal,Unidade Norte,Ana,Fechado,5,48
+468,2026-01-16 18:22:56,2026-01-17 08:22:20,Software,Média,Presencial,Remoto,Diego,Fechado,4,24
+765,2026-01-16 20:54:05,2026-01-18 13:15:05,Hardware,Baixa,Presencial,Unidade Norte,Diego,Fechado,5,48
+218,2026-01-17 06:19:29,2026-01-18 10:04:29,Hardware,Média,Telefone,Remoto,Carla,Fechado,2,24
+573,2026-01-17 13:33:19,2026-01-19 07:08:07,Software,Média,Portal,Unidade Sul,Diego,Resolvido,3,24
+135,2026-01-17 14:53:11,2026-01-19 07:31:35,Hardware,Baixa,Telefone,Sede,Diego,Resolvido,4,48
+675,2026-01-17 16:46:39,2026-01-17 19:43:39,Hardware,Crítica,Telefone,Unidade Sul,Bruno,Resolvido,3,4
+690,2026-01-17 18:29:16,2026-01-21 21:11:52,Software,Baixa,Presencial,Sede,Carla,Resolvido,3,48
+58,2026-01-17 22:59:07,2026-01-18 03:18:19,Software,Alta,Presencial,Sede,Ana,Fechado,5,8
+300,2026-01-17 23:25:30,2026-01-19 11:06:54,E-mail,Média,Presencial,Unidade Norte,Diego,Fechado,5,24
+634,2026-01-17 23:34:16,2026-01-18 01:41:28,Acesso e senha,Crítica,Telefone,Sede,Ana,Fechado,5,4
+255,2026-01-18 03:59:43,2026-01-19 08:04:31,Acesso e senha,Baixa,Portal,Unidade Norte,Carla,Fechado,4,48
+563,2026-01-18 06:53:17,2026-01-18 14:25:05,E-mail,Alta,E-mail,Sede,Carla,Fechado,4,8
+282,2026-01-18 08:48:43,2026-01-19 07:21:43,Acesso e senha,Média,Presencial,Unidade Sul,Diego,Fechado,5,24
+73,2026-01-18 10:23:18,,Hardware,Média,Presencial,Sede,Diego,Em andamento,,24
+631,2026-01-18 15:03:20,2026-01-22 19:51:56,Acesso e senha,Baixa,Presencial,Sede,Bruno,Fechado,5,48
+509,2026-01-18 16:06:34,2026-01-21 18:28:46,Software,Média,Telefone,Sede,Carla,Fechado,1,24
+687,2026-01-18 16:14:16,2026-01-20 00:01:04,Rede e VPN,Baixa,Telefone,Sede,Bruno,Fechado,5,48
+787,2026-01-18 21:29:20,2026-01-20 12:26:20,Hardware,Baixa,Telefone,Remoto,Diego,Fechado,3,48
+10,2026-01-18 23:40:06,2026-01-20 19:01:42,E-mail,Baixa,Presencial,Unidade Sul,Ana,Fechado,5,48
+109,2026-01-19 01:08:17,2026-01-20 10:51:29,Acesso e senha,Baixa,Telefone,Sede,Diego,Fechado,5,48
+483,2026-01-19 09:59:59,2026-01-21 03:52:47,Hardware,Baixa,Portal,Unidade Sul,Carla,Resolvido,4,48
+335,2026-01-19 18:43:29,2026-01-21 16:05:41,E-mail,Baixa,Telefone,Sede,Carla,Fechado,5,48
+779,2026-01-20 03:18:56,2026-01-20 09:45:56,E-mail,Alta,Presencial,Remoto,Carla,Fechado,4,8
+796,2026-01-20 05:32:31,2026-01-20 13:43:19,Rede e VPN,Alta,E-mail,Remoto,Diego,Fechado,2,8
+216,2026-01-20 07:14:55,2026-01-21 10:17:19,E-mail,Média,Telefone,Sede,Carla,Fechado,3,24
+249,2026-01-20 16:03:06,2026-01-21 13:05:30,E-mail,Média,Presencial,Unidade Norte,Bruno,Resolvido,4,24
+82,2026-01-20 16:41:24,2026-01-21 21:03:36,Software,Média,Presencial,Unidade Sul,Carla,Fechado,2,24
+210,2026-01-22 02:43:57,2026-01-22 23:32:33,Software,Baixa,Presencial,Remoto,Bruno,Fechado,3,48
+53,2026-01-22 07:46:36,2026-01-23 05:28:36,Videoconferência,Média,E-mail,Sede,Carla,Resolvido,5,24
+178,2026-01-22 13:01:57,2026-01-22 22:29:33,Software,Média,Portal,Sede,Diego,Fechado,5,24
+228,2026-01-22 13:41:54,2026-01-23 16:42:30,Rede e VPN,Baixa,Telefone,Remoto,Ana,Fechado,4,48
+683,2026-01-22 18:12:13,2026-01-23 05:12:49,Software,Alta,Presencial,Sede,Bruno,Fechado,3,8
+304,2026-01-23 04:22:32,2026-01-23 20:24:20,Acesso e senha,Média,Telefone,Unidade Sul,Diego,Fechado,3,24
+339,2026-01-23 06:19:36,2026-01-25 02:58:36,Software,Baixa,E-mail,Unidade Sul,Ana,Resolvido,5,48
+337,2026-01-23 06:52:54,,Rede e VPN,Alta,E-mail,Sede,Diego,Em andamento,,8
+665,2026-01-23 11:08:07,2026-01-24 01:45:55,Acesso e senha,Média,Telefone,Unidade Norte,Ana,Resolvido,5,24
+654,2026-01-23 23:45:36,2026-01-24 05:16:12,Rede e VPN,Crítica,Presencial,Unidade Sul,Carla,Fechado,4,4
+237,2026-01-24 01:01:17,2026-01-24 04:21:05,Rede e VPN,Alta,E-mail,Remoto,Bruno,Resolvido,4,8
+407,2026-01-24 14:40:27,2026-01-24 23:29:39,Rede e VPN,Baixa,Telefone,Remoto,Carla,Resolvido,4,48
+25,2026-01-24 14:42:43,2026-01-26 03:19:19,Software,Baixa,Telefone,Unidade Norte,Carla,Fechado,4,48
+117,2026-01-24 15:10:03,2026-01-24 16:17:15,Rede e VPN,Crítica,Portal,Remoto,Ana,Fechado,5,4
+155,2026-01-24 21:35:24,2026-01-25 11:59:24,E-mail,Baixa,E-mail,Sede,Ana,Fechado,5,48
+280,2026-01-25 03:01:13,2026-01-25 03:25:13,Software,Crítica,E-mail,Unidade Sul,Bruno,Resolvido,5,4
+370,2026-01-25 06:19:02,2026-01-25 06:43:02,Software,Crítica,Telefone,Unidade Norte,Diego,Resolvido,4,4
+749,2026-01-25 10:35:14,2026-01-26 05:08:14,Hardware,Média,Telefone,Unidade Norte,Bruno,Fechado,3,24
+789,2026-01-26 01:48:30,2026-01-27 13:44:18,Videoconferência,Baixa,Presencial,Unidade Sul,Carla,Fechado,5,48
+103,2026-01-26 13:48:26,2026-01-27 10:21:26,E-mail,Média,E-mail,Unidade Sul,Ana,Resolvido,4,24
+637,2026-01-26 22:47:22,2026-01-27 11:04:10,Rede e VPN,Alta,Presencial,Unidade Sul,Carla,Resolvido,5,8
+190,2026-01-26 22:54:18,2026-01-26 23:21:18,Software,Média,E-mail,Sede,Ana,Fechado,5,24
+555,2026-01-27 02:28:57,,Hardware,Média,Portal,Remoto,Carla,Em andamento,,24
+729,2026-01-27 10:01:28,2026-01-28 16:36:52,Hardware,Baixa,Presencial,Remoto,Carla,Resolvido,4,48
+413,2026-01-27 10:41:00,2026-01-28 11:21:48,E-mail,Baixa,Presencial,Sede,Bruno,Fechado,5,48
+422,2026-01-27 13:40:51,2026-01-28 17:59:27,Rede e VPN,Baixa,Presencial,Unidade Sul,Carla,Fechado,5,48
+309,2026-01-27 16:10:26,2026-01-31 16:47:38,Software,Baixa,Portal,Remoto,Ana,Resolvido,1,48
+469,2026-01-28 00:51:20,2026-01-28 14:14:08,Hardware,Alta,E-mail,Unidade Norte,Ana,Resolvido,4,8
+221,2026-01-28 07:02:29,2026-01-29 01:20:29,Hardware,Média,E-mail,Remoto,Bruno,Fechado,4,24
+9,2026-01-28 10:43:28,2026-01-28 14:21:16,Software,Alta,E-mail,Unidade Norte,Diego,Fechado,4,8
+97,2026-01-28 11:24:29,,Acesso e senha,Crítica,Portal,Sede,Bruno,Em andamento,,4
+684,2026-01-28 22:25:10,,Software,Baixa,Telefone,Unidade Sul,Bruno,Em andamento,,48
+494,2026-01-29 03:48:11,,Acesso e senha,Baixa,E-mail,Unidade Norte,Ana,Em andamento,,48
+512,2026-01-29 07:04:10,2026-01-30 04:40:10,Software,Média,Presencial,Remoto,Diego,Resolvido,5,24
+521,2026-01-29 12:04:34,2026-01-30 08:00:22,E-mail,Média,Presencial,Unidade Norte,Bruno,Fechado,4,24
+574,2026-01-30 01:28:40,2026-01-31 00:02:52,Software,Média,E-mail,Remoto,Diego,Fechado,5,24
+481,2026-01-30 02:55:25,2026-01-30 13:10:25,Hardware,Alta,Portal,Remoto,Bruno,Resolvido,2,8
+650,2026-01-30 04:33:23,2026-01-31 02:02:11,Rede e VPN,Baixa,Portal,Sede,Ana,Fechado,5,48
+615,2026-01-30 10:52:29,2026-01-30 12:45:17,Hardware,Alta,E-mail,Unidade Sul,Bruno,Fechado,2,8
+463,2026-01-30 19:00:40,2026-01-31 08:45:04,Hardware,Média,Presencial,Unidade Norte,Bruno,Fechado,5,24
+379,2026-02-01 06:01:48,2026-02-01 06:43:12,Videoconferência,Alta,Telefone,Sede,Bruno,Fechado,4,8
+546,2026-02-01 08:32:01,2026-02-01 21:36:13,Acesso e senha,Média,Portal,Sede,Ana,Fechado,5,24
+482,2026-02-01 15:52:35,2026-02-02 09:03:59,Software,Média,Presencial,Unidade Sul,Ana,Fechado,3,24
+30,2026-02-01 17:01:35,2026-02-04 07:57:23,Software,Média,Portal,Unidade Sul,Bruno,Fechado,5,24
+556,2026-02-01 18:03:21,2026-02-02 18:02:09,E-mail,Média,Telefone,Remoto,Ana,Fechado,4,24
+134,2026-02-01 19:14:44,2026-02-02 19:05:44,E-mail,Baixa,Portal,Sede,Carla,Fechado,5,48
+170,2026-02-01 21:18:51,2026-02-02 15:28:27,Software,Média,Presencial,Unidade Sul,Diego,Fechado,4,24
+327,2026-02-02 08:24:46,2026-02-03 11:51:10,Videoconferência,Baixa,Portal,Unidade Norte,Ana,Fechado,3,48
+667,2026-02-02 18:29:31,,E-mail,Média,E-mail,Unidade Sul,Diego,Em andamento,,24
+785,2026-02-02 23:10:58,2026-02-03 08:53:34,Videoconferência,Baixa,Portal,Sede,Diego,Resolvido,3,48
+775,2026-02-03 00:47:41,2026-02-04 00:08:05,Acesso e senha,Baixa,Telefone,Unidade Norte,Bruno,Fechado,3,48
+302,2026-02-03 21:40:27,2026-02-07 13:05:39,Acesso e senha,Baixa,E-mail,Unidade Sul,Carla,Resolvido,4,48
+505,2026-02-03 22:38:12,,Acesso e senha,Média,Presencial,Sede,Diego,Em andamento,,24
+763,2026-02-04 01:23:16,,E-mail,Média,E-mail,Sede,Diego,Em andamento,,24
+722,2026-02-04 03:34:55,2026-02-04 11:17:31,Hardware,Alta,E-mail,Unidade Sul,Ana,Resolvido,4,8
+104,2026-02-04 04:02:46,2026-02-04 21:18:22,Acesso e senha,Média,Presencial,Unidade Norte,Ana,Fechado,5,24
+620,2026-02-04 08:16:40,2026-02-04 09:35:16,Hardware,Alta,Portal,Unidade Sul,Diego,Resolvido,5,8
+568,2026-02-04 09:14:01,2026-02-07 20:05:01,Rede e VPN,Baixa,E-mail,Unidade Norte,Ana,Resolvido,3,48
+43,2026-02-04 11:41:28,2026-02-04 12:28:52,Rede e VPN,Baixa,Telefone,Remoto,Diego,Fechado,5,48
+535,2026-02-04 15:06:03,2026-02-05 05:10:51,Videoconferência,Média,Telefone,Remoto,Ana,Fechado,3,24
+470,2026-02-04 17:14:39,2026-02-05 15:55:27,Videoconferência,Baixa,E-mail,Remoto,Diego,Resolvido,4,48
+389,2026-02-04 18:50:50,2026-02-05 13:13:02,Software,Média,Presencial,Unidade Norte,Ana,Fechado,3,24
+224,2026-02-04 19:50:58,2026-02-05 19:20:58,Videoconferência,Baixa,Presencial,Unidade Sul,Ana,Resolvido,4,48
+478,2026-02-05 01:34:46,2026-02-06 00:23:58,Acesso e senha,Baixa,E-mail,Sede,Bruno,Fechado,4,48
+727,2026-02-05 02:11:36,2026-02-05 15:08:00,Hardware,Média,Portal,Unidade Norte,Bruno,Fechado,5,24
+112,2026-02-05 08:47:59,,Rede e VPN,Média,Telefone,Sede,Bruno,Em andamento,,24
+685,2026-02-05 21:12:04,2026-02-06 07:49:16,Software,Baixa,Telefone,Remoto,Diego,Fechado,5,48
+502,2026-02-05 22:29:14,2026-02-08 03:59:50,Rede e VPN,Média,E-mail,Unidade Sul,Carla,Fechado,3,24
+299,2026-02-06 05:36:32,2026-02-07 14:35:56,Hardware,Média,Portal,Unidade Norte,Ana,Resolvido,4,24
+428,2026-02-06 10:31:55,2026-02-07 21:33:07,Hardware,Baixa,Portal,Remoto,Bruno,Resolvido,3,48
+140,2026-02-06 16:56:45,,Acesso e senha,Média,Portal,Sede,Diego,Em andamento,,24
+308,2026-02-06 19:50:37,2026-02-07 00:56:37,Videoconferência,Média,Portal,Unidade Sul,Diego,Resolvido,5,24
+718,2026-02-07 02:27:39,,Rede e VPN,Média,Telefone,Unidade Sul,Carla,Em andamento,,24
+165,2026-02-07 04:41:27,2026-02-09 06:07:15,Software,Baixa,E-mail,Unidade Sul,Ana,Fechado,5,48
+173,2026-02-07 09:07:09,2026-02-07 11:29:57,Hardware,Crítica,Portal,Unidade Norte,Bruno,Fechado,5,4
+776,2026-02-08 18:50:33,2026-02-09 00:20:33,Software,Média,E-mail,Unidade Norte,Carla,Resolvido,4,24
+548,2026-02-08 22:14:55,2026-02-09 17:49:07,E-mail,Média,E-mail,Sede,Diego,Fechado,4,24
+169,2026-02-08 23:40:37,2026-02-10 03:20:13,Software,Média,E-mail,Unidade Sul,Carla,Fechado,2,24
+597,2026-02-08 23:48:35,,Software,Média,Portal,Unidade Norte,Diego,Em andamento,,24
+89,2026-02-09 00:25:06,2026-02-09 18:59:18,E-mail,Baixa,Presencial,Unidade Sul,Ana,Fechado,2,48
+298,2026-02-09 02:33:07,2026-02-10 06:40:19,Acesso e senha,Alta,Telefone,Sede,Diego,Fechado,5,8
+269,2026-02-09 07:11:43,2026-02-09 10:38:43,E-mail,Média,E-mail,Unidade Norte,Bruno,Fechado,5,24
+479,2026-02-09 17:21:26,2026-02-09 18:25:02,Rede e VPN,Crítica,E-mail,Remoto,Diego,Fechado,4,4
+29,2026-02-09 20:49:56,2026-02-11 12:48:44,E-mail,Média,Telefone,Unidade Norte,Carla,Fechado,1,24
+355,2026-02-09 22:42:47,2026-02-14 06:49:23,Acesso e senha,Baixa,Presencial,Unidade Norte,Carla,Fechado,5,48
+323,2026-02-10 23:47:33,2026-02-11 05:12:45,Acesso e senha,Baixa,Presencial,Remoto,Ana,Fechado,4,48
+419,2026-02-11 05:20:03,2026-02-11 06:53:03,Acesso e senha,Alta,Presencial,Sede,Ana,Fechado,2,8
+213,2026-02-11 09:16:29,2026-02-13 08:22:29,Rede e VPN,Baixa,Telefone,Sede,Bruno,Fechado,5,48
+252,2026-02-11 18:36:53,2026-02-12 13:18:53,Acesso e senha,Média,Portal,Remoto,Bruno,Resolvido,5,24
+248,2026-02-12 15:09:39,2026-02-13 15:12:03,E-mail,Baixa,Telefone,Sede,Ana,Resolvido,5,48
+2,2026-02-12 18:55:36,2026-02-13 02:06:24,Software,Alta,Presencial,Unidade Sul,Ana,Fechado,4,8
+551,2026-02-13 00:35:30,2026-02-14 10:52:54,Software,Baixa,E-mail,Sede,Diego,Fechado,3,48
+116,2026-02-13 03:41:25,2026-02-14 08:22:49,Software,Média,Telefone,Unidade Sul,Carla,Resolvido,2,24
+452,2026-02-13 10:59:38,2026-02-14 04:37:26,E-mail,Média,Presencial,Unidade Sul,Ana,Fechado,5,24
+588,2026-02-13 12:15:45,2026-02-13 17:27:45,Rede e VPN,Alta,Portal,Sede,Ana,Fechado,5,8
+290,2026-02-13 16:21:38,2026-02-14 18:09:02,E-mail,Média,Portal,Unidade Norte,Carla,Fechado,4,24
+51,2026-02-13 20:57:03,2026-02-14 12:29:27,E-mail,Média,E-mail,Remoto,Ana,Resolvido,3,24
+111,2026-02-13 21:03:24,2026-02-16 08:50:12,Hardware,Baixa,Portal,Unidade Sul,Ana,Resolvido,3,48
+401,2026-02-14 06:36:48,,Acesso e senha,Média,Portal,Unidade Sul,Bruno,Em andamento,,24
+567,2026-02-14 08:52:49,2026-02-14 09:48:01,Videoconferência,Média,E-mail,Unidade Sul,Bruno,Fechado,3,24
+754,2026-02-15 11:06:01,2026-02-15 14:45:01,Hardware,Alta,Telefone,Unidade Sul,Ana,Fechado,3,8
+740,2026-02-15 14:02:32,2026-02-16 04:12:44,Software,Média,Portal,Unidade Norte,Diego,Fechado,4,24
+197,2026-02-15 19:16:18,2026-02-16 05:08:30,Rede e VPN,Baixa,E-mail,Remoto,Carla,Resolvido,3,48
+703,2026-02-15 19:43:16,2026-02-16 00:00:04,Videoconferência,Baixa,Presencial,Sede,Carla,Resolvido,5,48
+84,2026-02-15 22:06:31,,Videoconferência,Média,Portal,Remoto,Ana,Em andamento,,24
+433,2026-02-16 03:40:49,2026-02-16 18:00:01,Hardware,Média,Presencial,Unidade Norte,Carla,Resolvido,2,24
+297,2026-02-16 11:03:18,2026-02-16 15:49:30,Hardware,Alta,Portal,Unidade Sul,Diego,Resolvido,1,8
+759,2026-02-16 13:27:30,,Software,Baixa,Telefone,Unidade Norte,Carla,Em andamento,,48
+619,2026-02-16 13:31:06,2026-02-17 11:11:18,Rede e VPN,Média,E-mail,Unidade Norte,Ana,Fechado,5,24
+26,2026-02-16 16:21:25,2026-02-17 08:11:49,Acesso e senha,Média,Portal,Remoto,Ana,Fechado,5,24
+15,2026-02-17 02:32:34,2026-02-18 08:30:10,Videoconferência,Baixa,E-mail,Unidade Norte,Diego,Resolvido,5,48
+258,2026-02-17 03:31:20,2026-02-18 18:34:20,Software,Média,Presencial,Unidade Sul,Bruno,Resolvido,5,24
+385,2026-02-17 15:35:09,2026-02-17 16:08:45,Software,Crítica,Portal,Unidade Norte,Carla,Resolvido,5,4
+262,2026-02-17 19:21:29,2026-02-17 23:09:29,Software,Alta,E-mail,Sede,Bruno,Fechado,3,8
+642,2026-02-18 03:10:36,2026-02-20 09:47:48,Rede e VPN,Baixa,Portal,Unidade Sul,Bruno,Fechado,4,48
+431,2026-02-18 07:51:33,2026-02-19 00:10:45,Acesso e senha,Média,Telefone,Unidade Sul,Bruno,Fechado,5,24
+421,2026-02-18 08:57:04,2026-02-19 08:00:04,Software,Média,Presencial,Unidade Sul,Diego,Fechado,5,24
+251,2026-02-18 22:53:55,2026-02-19 09:16:43,Rede e VPN,Alta,Portal,Sede,Ana,Fechado,3,8
+622,2026-02-19 10:59:08,,Hardware,Média,Telefone,Sede,Bruno,Em andamento,,24
+265,2026-02-19 20:55:37,2026-02-20 22:22:37,E-mail,Baixa,Portal,Unidade Norte,Ana,Resolvido,5,48
+93,2026-02-20 05:34:02,,Videoconferência,Baixa,Telefone,Unidade Sul,Ana,Em andamento,,48
+677,2026-02-20 18:33:10,2026-02-21 07:04:22,Hardware,Média,E-mail,Unidade Norte,Carla,Fechado,4,24
+420,2026-02-21 07:06:58,,Acesso e senha,Média,Presencial,Unidade Sul,Bruno,Em andamento,,24
+305,2026-02-21 14:57:57,2026-02-21 15:50:09,Software,Média,Presencial,Sede,Diego,Resolvido,5,24
+66,2026-02-21 17:20:25,2026-02-22 08:52:49,Acesso e senha,Média,E-mail,Unidade Sul,Carla,Fechado,4,24
+454,2026-02-22 00:50:52,,Hardware,Baixa,Portal,Sede,Diego,Em andamento,,48
+660,2026-02-22 08:15:58,2026-02-22 10:52:34,Software,Baixa,Presencial,Sede,Bruno,Fechado,4,48
+60,2026-02-22 22:33:43,2026-02-23 08:58:55,Hardware,Média,E-mail,Unidade Norte,Bruno,Fechado,5,24
+48,2026-02-23 07:58:14,2026-02-23 13:06:02,Acesso e senha,Média,Presencial,Unidade Norte,Ana,Fechado,3,24
+745,2026-02-23 11:53:23,2026-02-28 03:10:11,Software,Baixa,Presencial,Sede,Carla,Fechado,5,48
+45,2026-02-23 15:43:00,2026-02-24 03:52:00,Rede e VPN,Média,E-mail,Sede,Diego,Fechado,3,24
+240,2026-02-23 16:54:26,2026-02-23 17:42:26,Hardware,Alta,Telefone,Unidade Sul,Ana,Fechado,5,8
+198,2026-02-23 18:18:36,2026-02-23 21:27:36,Videoconferência,Alta,Presencial,Sede,Carla,Fechado,4,8
+192,2026-02-26 01:56:22,2026-02-26 20:26:22,Rede e VPN,Média,Presencial,Remoto,Diego,Fechado,4,24
+405,2026-02-26 02:51:59,2026-02-26 15:38:47,Rede e VPN,Alta,Telefone,Unidade Norte,Bruno,Fechado,5,8
+661,2026-02-26 06:13:39,2026-02-26 10:15:27,Software,Média,Presencial,Unidade Norte,Carla,Fechado,5,24
+177,2026-02-26 17:36:26,2026-02-26 22:44:50,Videoconferência,Crítica,Telefone,Unidade Sul,Bruno,Resolvido,4,4
+372,2026-02-26 18:32:22,2026-02-28 00:55:46,Hardware,Média,E-mail,Sede,Carla,Fechado,3,24
+797,2026-02-26 20:32:18,2026-02-26 20:56:18,Acesso e senha,Baixa,Portal,Unidade Norte,Diego,Fechado,4,48
+793,2026-02-26 22:27:56,,Hardware,Média,Telefone,Unidade Norte,Bruno,Em andamento,,24
+778,2026-02-27 06:03:51,2026-02-27 14:26:03,Acesso e senha,Alta,Telefone,Sede,Ana,Fechado,1,8
+784,2026-02-27 09:30:02,2026-02-28 10:48:38,Rede e VPN,Média,Portal,Unidade Sul,Diego,Resolvido,3,24
+59,2026-02-27 11:14:13,2026-02-27 13:58:37,Rede e VPN,Alta,Telefone,Unidade Sul,Diego,Fechado,5,8
+334,2026-02-27 19:33:48,2026-02-28 06:28:24,Acesso e senha,Média,Telefone,Remoto,Ana,Fechado,4,24
+62,2026-02-27 20:36:30,2026-02-28 00:01:42,Acesso e senha,Alta,E-mail,Remoto,Ana,Fechado,5,8
+364,2026-02-27 21:28:56,2026-03-01 00:06:44,Acesso e senha,Baixa,Portal,Sede,Bruno,Resolvido,5,48
+194,2026-02-28 06:28:20,2026-03-01 09:36:44,Rede e VPN,Média,E-mail,Unidade Sul,Bruno,Resolvido,3,24
+182,2026-02-28 06:36:30,,Acesso e senha,Média,Telefone,Remoto,Diego,Em andamento,,24
+301,2026-02-28 08:45:06,2026-02-28 12:22:54,E-mail,Alta,E-mail,Sede,Diego,Fechado,5,8
+678,2026-02-28 10:22:50,2026-02-28 21:55:14,E-mail,Média,E-mail,Sede,Carla,Fechado,4,24
+579,2026-02-28 14:53:26,2026-03-01 01:04:50,E-mail,Baixa,E-mail,Sede,Ana,Fechado,5,48
+447,2026-02-28 15:39:27,2026-03-02 02:59:15,Acesso e senha,Baixa,E-mail,Sede,Ana,Fechado,4,48
+590,2026-02-28 21:46:16,2026-03-01 17:40:16,Rede e VPN,Média,Portal,Unidade Norte,Carla,Resolvido,4,24
+289,2026-02-28 22:19:39,2026-03-01 19:47:51,Videoconferência,Média,Telefone,Unidade Norte,Carla,Fechado,4,24
+186,2026-02-28 23:10:10,2026-03-01 10:19:10,Software,Média,Telefone,Sede,Carla,Fechado,3,24
+576,2026-03-01 05:09:34,,E-mail,Média,Portal,Remoto,Ana,Em andamento,,24
+158,2026-03-01 09:19:23,2026-03-01 11:39:11,Hardware,Alta,Portal,Unidade Sul,Bruno,Fechado,5,8
+695,2026-03-01 11:35:55,2026-03-01 13:05:19,Software,Média,Presencial,Remoto,Ana,Resolvido,4,24
+34,2026-03-01 14:17:33,2026-03-03 17:52:57,E-mail,Baixa,Portal,Unidade Sul,Carla,Fechado,3,48
+92,2026-03-02 07:43:53,2026-03-04 14:15:41,Acesso e senha,Baixa,Telefone,Unidade Sul,Bruno,Fechado,2,48
+156,2026-03-02 09:23:57,2026-03-03 00:41:21,Rede e VPN,Média,E-mail,Unidade Sul,Ana,Fechado,5,24
+129,2026-03-02 10:45:22,2026-03-04 12:11:10,Rede e VPN,Média,Portal,Remoto,Carla,Fechado,5,24
+501,2026-03-02 14:31:48,2026-03-03 00:52:48,Rede e VPN,Média,Telefone,Unidade Sul,Diego,Resolvido,5,24
+716,2026-03-02 18:14:32,2026-03-02 22:13:56,Software,Média,E-mail,Sede,Bruno,Fechado,4,24
+617,2026-03-03 06:54:08,2026-03-03 15:21:44,E-mail,Média,E-mail,Unidade Norte,Ana,Resolvido,5,24
+275,2026-03-03 07:30:04,,Software,Média,E-mail,Remoto,Carla,Em andamento,,24
+144,2026-03-03 14:46:59,,Software,Baixa,Presencial,Unidade Sul,Ana,Em andamento,,48
+760,2026-03-03 23:50:14,2026-03-04 17:31:02,Rede e VPN,Média,Portal,Unidade Norte,Carla,Fechado,4,24
+295,2026-03-04 05:19:42,2026-03-04 13:46:42,Acesso e senha,Média,Portal,Unidade Sul,Diego,Resolvido,3,24
+125,2026-03-04 18:25:23,,Software,Média,Presencial,Sede,Carla,Em andamento,,24
+506,2026-03-05 12:22:18,2026-03-06 11:19:54,E-mail,Média,Presencial,Unidade Sul,Diego,Resolvido,3,24
+410,2026-03-05 12:38:33,2026-03-06 04:45:09,E-mail,Média,Telefone,Unidade Sul,Bruno,Resolvido,5,24
+189,2026-03-06 01:08:20,2026-03-07 15:35:20,Software,Baixa,Presencial,Sede,Diego,Fechado,5,48
+709,2026-03-06 06:17:52,2026-03-06 06:41:52,Software,Média,Telefone,Unidade Norte,Ana,Fechado,4,24
+206,2026-03-06 09:17:01,2026-03-06 09:41:01,Software,Alta,Presencial,Remoto,Bruno,Fechado,4,8
+179,2026-03-06 11:16:47,2026-03-07 12:42:35,Acesso e senha,Média,Presencial,Remoto,Bruno,Fechado,5,24
+500,2026-03-06 20:46:47,2026-03-06 21:10:47,Rede e VPN,Baixa,Presencial,Sede,Diego,Fechado,3,48
+530,2026-03-06 22:17:00,2026-03-08 07:01:24,Hardware,Baixa,Presencial,Sede,Bruno,Resolvido,4,48
+534,2026-03-07 01:56:30,2026-03-07 20:25:18,Software,Média,Presencial,Unidade Sul,Bruno,Fechado,3,24
+264,2026-03-07 09:15:52,2026-03-09 22:00:52,Hardware,Baixa,E-mail,Unidade Sul,Bruno,Fechado,3,48
+541,2026-03-07 11:33:38,2026-03-07 17:43:50,Hardware,Alta,Portal,Unidade Norte,Ana,Resolvido,4,8
+795,2026-03-07 20:26:42,2026-03-08 16:48:18,Software,Média,Telefone,Unidade Norte,Diego,Resolvido,5,24
+50,2026-03-07 20:51:59,2026-03-08 19:54:23,Hardware,Baixa,Portal,Sede,Carla,Resolvido,3,48
+607,2026-03-07 21:18:11,2026-03-08 01:24:47,Software,Alta,Presencial,Sede,Carla,Fechado,2,8
+491,2026-03-08 04:33:53,2026-03-08 19:46:29,Software,Baixa,Telefone,Sede,Carla,Fechado,5,48
+669,2026-03-08 14:40:00,2026-03-08 23:43:36,Acesso e senha,Média,E-mail,Unidade Norte,Diego,Fechado,5,24
+653,2026-03-08 14:44:00,2026-03-10 07:35:00,E-mail,Baixa,Portal,Sede,Diego,Fechado,3,48
+429,2026-03-08 17:25:45,2026-03-09 05:16:09,E-mail,Média,Telefone,Remoto,Ana,Fechado,3,24
+761,2026-03-08 21:13:48,2026-03-09 01:57:36,Software,Alta,Presencial,Unidade Sul,Bruno,Fechado,5,8
+231,2026-03-08 22:48:23,2026-03-09 13:39:59,Acesso e senha,Média,Telefone,Sede,Carla,Fechado,5,24
+457,2026-03-08 23:45:37,2026-03-11 03:51:37,Acesso e senha,Média,Telefone,Remoto,Bruno,Fechado,2,24
+88,2026-03-09 10:27:09,,Hardware,Baixa,Telefone,Remoto,Carla,Em andamento,,48
+611,2026-03-09 18:36:43,2026-03-11 06:28:19,Rede e VPN,Baixa,Presencial,Unidade Norte,Ana,Resolvido,4,48
+176,2026-03-10 01:32:26,2026-03-11 11:17:26,Videoconferência,Média,Presencial,Unidade Sul,Bruno,Fechado,4,24
+121,2026-03-10 12:14:36,2026-03-11 03:38:36,E-mail,Média,Portal,Unidade Norte,Diego,Fechado,5,24
+148,2026-03-10 14:19:39,,Rede e VPN,Média,Presencial,Unidade Sul,Ana,Em andamento,,24
+236,2026-03-10 16:22:07,2026-03-11 18:34:43,Software,Baixa,Portal,Unidade Norte,Carla,Resolvido,3,48
+561,2026-03-10 19:45:19,2026-03-15 13:06:55,Software,Baixa,Portal,Remoto,Carla,Fechado,3,48
+110,2026-03-10 23:53:11,2026-03-12 10:30:59,Videoconferência,Baixa,E-mail,Unidade Norte,Diego,Resolvido,3,48
+285,2026-03-11 05:30:33,2026-03-12 05:27:33,Videoconferência,Baixa,Telefone,Sede,Carla,Resolvido,5,48
+416,2026-03-11 06:55:41,2026-03-11 18:46:41,Software,Média,E-mail,Unidade Sul,Diego,Fechado,5,24
+715,2026-03-11 08:14:35,2026-03-12 04:00:11,Rede e VPN,Média,Telefone,Remoto,Carla,Fechado,3,24
+664,2026-03-12 00:04:02,2026-03-14 03:27:26,Hardware,Baixa,Portal,Unidade Sul,Diego,Fechado,1,48
+399,2026-03-12 04:30:35,2026-03-12 16:14:59,Acesso e senha,Alta,Portal,Sede,Ana,Fechado,4,8
+446,2026-03-12 05:45:41,2026-03-14 08:00:05,Software,Baixa,E-mail,Unidade Sul,Ana,Fechado,4,48
+582,2026-03-12 11:08:37,2026-03-13 04:35:37,Videoconferência,Média,E-mail,Unidade Norte,Ana,Fechado,5,24
+393,2026-03-12 16:17:58,2026-03-12 16:41:58,Software,Alta,Telefone,Remoto,Bruno,Fechado,5,8
+344,2026-03-12 21:17:55,2026-03-13 13:25:07,E-mail,Baixa,Presencial,Sede,Ana,Fechado,4,48
+382,2026-03-13 06:24:22,2026-03-13 21:11:10,E-mail,Média,Telefone,Remoto,Diego,Fechado,5,24
+328,2026-03-13 12:26:23,2026-03-13 18:25:47,E-mail,Média,Portal,Sede,Ana,Fechado,2,24
+187,2026-03-13 16:52:43,2026-03-16 00:53:55,Acesso e senha,Média,Presencial,Unidade Norte,Bruno,Fechado,3,24
+629,2026-03-13 17:08:17,,E-mail,Alta,E-mail,Sede,Ana,Em andamento,,8
+782,2026-03-13 21:00:27,2026-03-14 04:53:51,Rede e VPN,Média,Telefone,Sede,Carla,Fechado,4,24
+702,2026-03-14 06:33:53,2026-03-19 05:14:05,Software,Baixa,Portal,Unidade Sul,Bruno,Fechado,3,48
+151,2026-03-14 08:49:11,2026-03-14 18:56:59,Rede e VPN,Média,E-mail,Sede,Ana,Fechado,5,24
+581,2026-03-14 19:14:54,2026-03-15 11:44:18,Software,Média,E-mail,Sede,Carla,Fechado,3,24
+86,2026-03-15 02:53:09,2026-03-16 12:57:21,Hardware,Média,Presencial,Unidade Norte,Bruno,Fechado,4,24
+193,2026-03-15 06:38:06,2026-03-16 15:47:06,Videoconferência,Alta,E-mail,Sede,Ana,Fechado,2,8
+528,2026-03-15 08:05:35,2026-03-16 16:16:23,E-mail,Média,Portal,Remoto,Carla,Resolvido,3,24
+403,2026-03-15 13:19:17,2026-03-16 13:11:29,Rede e VPN,Média,Portal,Unidade Sul,Ana,Fechado,2,24
+212,2026-03-15 13:44:15,2026-03-16 09:20:15,Acesso e senha,Média,Portal,Sede,Bruno,Fechado,5,24
+608,2026-03-15 16:23:05,2026-03-16 00:09:17,Hardware,Média,Presencial,Unidade Sul,Bruno,Fechado,4,24
+738,2026-03-16 09:04:23,2026-03-16 15:40:23,Hardware,Alta,Portal,Unidade Norte,Ana,Fechado,5,8
+363,2026-03-16 09:19:30,2026-03-17 02:17:42,Videoconferência,Baixa,Presencial,Remoto,Ana,Fechado,4,48
+691,2026-03-16 12:18:00,2026-03-17 05:33:36,Acesso e senha,Média,Presencial,Unidade Norte,Ana,Resolvido,4,24
+404,2026-03-16 15:23:11,2026-03-17 04:11:11,Videoconferência,Média,Portal,Unidade Sul,Bruno,Resolvido,5,24
+559,2026-03-16 16:41:58,2026-03-18 23:55:46,Software,Média,E-mail,Sede,Diego,Resolvido,5,24
+215,2026-03-16 20:51:10,,Acesso e senha,Baixa,Portal,Unidade Sul,Ana,Em andamento,,48
+164,2026-03-16 22:16:04,,Software,Baixa,E-mail,Unidade Sul,Carla,Em andamento,,48
+312,2026-03-17 09:31:35,2026-03-17 12:47:11,E-mail,Crítica,Portal,Sede,Diego,Resolvido,5,4
+367,2026-03-17 16:21:46,2026-03-19 01:33:10,Software,Média,Portal,Sede,Carla,Resolvido,4,24
+234,2026-03-17 20:06:21,2026-03-17 22:15:57,Acesso e senha,Crítica,Telefone,Unidade Sul,Bruno,Fechado,5,4
+508,2026-03-18 01:27:03,2026-03-18 04:51:03,Software,Média,Telefone,Remoto,Carla,Resolvido,5,24
+698,2026-03-19 02:15:15,2026-03-20 08:38:03,E-mail,Média,Telefone,Unidade Sul,Carla,Fechado,2,24
+453,2026-03-19 17:16:14,2026-03-20 15:15:38,Rede e VPN,Média,E-mail,Unidade Norte,Ana,Fechado,4,24
+659,2026-03-19 22:38:43,2026-03-20 07:03:19,Software,Média,Presencial,Unidade Sul,Ana,Fechado,4,24
+64,2026-03-20 03:25:55,2026-03-21 03:09:07,Software,Média,Presencial,Unidade Norte,Diego,Resolvido,4,24
+504,2026-03-20 03:56:24,2026-03-21 22:01:48,Hardware,Média,Presencial,Unidade Sul,Bruno,Fechado,3,24
+672,2026-03-20 07:49:43,2026-03-21 23:41:19,Acesso e senha,Baixa,Portal,Unidade Sul,Diego,Fechado,5,48
+673,2026-03-20 09:28:08,2026-03-21 12:55:08,Rede e VPN,Baixa,E-mail,Remoto,Diego,Fechado,5,48
+20,2026-03-20 12:21:04,2026-03-22 02:45:04,E-mail,Média,Portal,Remoto,Ana,Fechado,5,24
+342,2026-03-20 15:24:25,2026-03-21 15:03:25,Acesso e senha,Baixa,Portal,Sede,Diego,Resolvido,5,48
+119,2026-03-20 23:35:14,2026-03-21 00:17:14,Hardware,Crítica,E-mail,Remoto,Diego,Resolvido,5,4
+402,2026-03-21 09:23:05,2026-03-22 00:05:41,Software,Média,Telefone,Unidade Sul,Diego,Resolvido,4,24
+46,2026-03-21 11:33:02,2026-03-22 17:31:14,Software,Média,Portal,Remoto,Diego,Fechado,4,24
+72,2026-03-21 15:02:24,2026-03-22 03:24:36,Rede e VPN,Média,Presencial,Sede,Diego,Fechado,4,24
+239,2026-03-21 18:42:15,2026-03-22 00:06:15,Software,Média,E-mail,Unidade Sul,Ana,Resolvido,2,24
+480,2026-03-21 23:26:38,2026-03-22 14:35:02,Software,Média,E-mail,Sede,Bruno,Resolvido,5,24
+132,2026-03-22 02:44:23,,Rede e VPN,Média,Telefone,Remoto,Bruno,Em andamento,,24
+415,2026-03-22 06:56:41,,E-mail,Alta,E-mail,Unidade Norte,Carla,Em andamento,,8
+606,2026-03-22 07:43:51,2026-03-22 12:33:39,Rede e VPN,Média,Portal,Unidade Sul,Ana,Fechado,5,24
+343,2026-03-22 09:38:12,2026-03-22 12:19:36,Software,Crítica,E-mail,Remoto,Carla,Fechado,5,4
+394,2026-03-22 13:46:58,2026-03-22 19:56:34,Software,Média,Presencial,Unidade Norte,Ana,Fechado,5,24
+74,2026-03-22 13:52:23,2026-03-22 19:09:47,Software,Alta,Presencial,Sede,Ana,Resolvido,4,8
+475,2026-03-22 15:19:33,2026-03-23 01:05:09,Acesso e senha,Média,Portal,Unidade Sul,Carla,Fechado,5,24
+492,2026-03-22 16:46:19,2026-03-22 21:21:43,E-mail,Alta,E-mail,Sede,Carla,Resolvido,4,8
+205,2026-03-22 17:03:15,2026-03-23 00:22:27,E-mail,Crítica,Telefone,Unidade Norte,Bruno,Fechado,4,4
+744,2026-03-22 22:17:09,2026-03-22 22:41:09,E-mail,Alta,Portal,Unidade Norte,Bruno,Fechado,4,8
+753,2026-03-23 01:12:33,2026-03-24 03:40:45,E-mail,Média,Presencial,Remoto,Ana,Fechado,5,24
+267,2026-03-23 03:53:46,2026-03-24 08:48:22,Hardware,Baixa,Portal,Unidade Norte,Bruno,Resolvido,5,48
+564,2026-03-23 05:12:05,2026-03-24 09:03:41,Software,Baixa,Telefone,Unidade Norte,Ana,Fechado,5,48
+633,2026-03-23 13:33:49,2026-03-24 01:00:13,E-mail,Alta,E-mail,Unidade Sul,Diego,Resolvido,3,8
+719,2026-03-23 15:15:41,2026-03-24 14:25:53,Acesso e senha,Média,Presencial,Unidade Norte,Bruno,Fechado,5,24
+320,2026-03-23 23:32:39,2026-03-24 19:05:03,Hardware,Baixa,Portal,Remoto,Bruno,Fechado,4,48
+657,2026-03-24 06:05:58,2026-03-24 07:50:58,Acesso e senha,Crítica,E-mail,Unidade Sul,Diego,Fechado,5,4
+474,2026-03-24 08:48:59,2026-03-25 07:23:11,Videoconferência,Média,E-mail,Unidade Norte,Diego,Resolvido,4,24
+23,2026-03-24 11:21:27,2026-03-24 21:20:51,Rede e VPN,Média,Portal,Unidade Sul,Ana,Resolvido,2,24
+455,2026-03-24 13:50:32,2026-03-25 12:45:44,Acesso e senha,Média,Telefone,Remoto,Bruno,Fechado,3,24
+191,2026-03-24 14:34:22,,Acesso e senha,Média,Portal,Remoto,Ana,Em andamento,,24
+554,2026-03-24 23:53:41,2026-03-25 16:24:53,Software,Média,Portal,Remoto,Bruno,Fechado,4,24
+464,2026-03-25 03:28:15,2026-03-25 13:37:15,E-mail,Baixa,E-mail,Unidade Norte,Carla,Resolvido,3,48
+485,2026-03-25 06:12:50,2026-03-27 16:58:26,Hardware,Média,Presencial,Unidade Norte,Bruno,Fechado,4,24
+798,2026-03-25 06:28:54,2026-03-25 15:43:18,Acesso e senha,Média,Telefone,Remoto,Bruno,Resolvido,4,24
+706,2026-03-25 06:29:51,2026-03-26 07:26:15,Videoconferência,Média,Telefone,Sede,Diego,Fechado,5,24
+31,2026-03-25 18:57:04,2026-03-26 02:49:16,Hardware,Alta,Portal,Unidade Sul,Diego,Resolvido,4,8
+602,2026-03-25 21:50:21,2026-03-26 17:08:57,Acesso e senha,Baixa,E-mail,Unidade Sul,Bruno,Fechado,2,48
+340,2026-03-26 09:13:02,2026-03-26 20:35:14,Hardware,Média,Portal,Sede,Bruno,Fechado,5,24
+56,2026-03-26 21:55:27,2026-03-27 22:12:15,Software,Baixa,Presencial,Unidade Norte,Diego,Fechado,4,48
+118,2026-03-27 00:55:50,2026-03-27 05:41:26,Videoconferência,Crítica,Presencial,Unidade Sul,Ana,Fechado,4,4
+123,2026-03-27 17:26:35,2026-03-27 23:16:23,Software,Alta,Portal,Unidade Sul,Carla,Resolvido,4,8
+223,2026-03-27 19:35:15,2026-03-28 16:20:15,E-mail,Média,E-mail,Remoto,Carla,Resolvido,4,24
+456,2026-03-27 20:42:30,2026-03-27 21:45:30,E-mail,Crítica,E-mail,Unidade Sul,Ana,Resolvido,2,4
+640,2026-03-28 01:37:51,2026-03-28 02:01:51,Rede e VPN,Média,Telefone,Unidade Norte,Bruno,Resolvido,3,24
+40,2026-03-28 04:36:50,2026-03-29 04:18:50,Software,Média,Telefone,Unidade Sul,Ana,Fechado,5,24
+762,2026-03-28 05:33:04,2026-03-28 15:10:52,Acesso e senha,Média,E-mail,Unidade Norte,Ana,Resolvido,5,24
+115,2026-03-28 09:03:22,2026-03-29 16:15:58,Software,Média,Presencial,Unidade Sul,Ana,Resolvido,4,24
+100,2026-03-28 10:18:53,2026-03-29 09:09:17,Hardware,Média,Telefone,Unidade Norte,Ana,Fechado,3,24
+751,2026-03-28 13:07:40,2026-03-28 13:31:40,Acesso e senha,Alta,E-mail,Unidade Norte,Ana,Fechado,4,8
+375,2026-03-28 19:31:06,2026-03-29 15:35:18,Hardware,Média,E-mail,Unidade Sul,Ana,Fechado,3,24
+362,2026-03-28 20:57:35,,Rede e VPN,Alta,E-mail,Sede,Carla,Em andamento,,8
+680,2026-03-28 23:16:31,2026-03-29 08:17:07,Rede e VPN,Alta,Presencial,Remoto,Diego,Fechado,5,8
+358,2026-03-29 11:37:44,2026-03-29 19:27:32,Rede e VPN,Alta,E-mail,Unidade Norte,Carla,Fechado,5,8
+227,2026-03-29 12:48:09,2026-03-31 05:17:33,Software,Baixa,Portal,Unidade Sul,Ana,Fechado,5,48
+157,2026-03-29 17:01:59,2026-03-30 13:00:47,Software,Média,Portal,Sede,Bruno,Fechado,3,24
+65,2026-03-29 19:32:58,2026-04-01 02:06:34,Hardware,Baixa,Portal,Unidade Norte,Bruno,Fechado,1,48
+628,2026-03-30 00:05:43,2026-03-31 01:14:43,Rede e VPN,Média,E-mail,Sede,Diego,Fechado,4,24
+562,2026-03-30 02:22:18,,E-mail,Média,Portal,Unidade Norte,Diego,Em andamento,,24
+274,2026-03-30 06:00:16,2026-03-31 05:27:52,Acesso e senha,Média,E-mail,Remoto,Diego,Fechado,3,24
+6,2026-03-30 09:02:42,2026-03-31 01:41:06,Hardware,Média,E-mail,Unidade Norte,Bruno,Fechado,5,24
+767,2026-03-30 09:56:37,2026-03-30 21:04:25,Software,Média,E-mail,Sede,Ana,Fechado,4,24
+107,2026-03-30 10:28:01,2026-03-31 15:31:37,Software,Média,E-mail,Remoto,Diego,Fechado,4,24
+438,2026-03-30 12:09:41,2026-03-30 12:33:41,Rede e VPN,Crítica,E-mail,Unidade Sul,Ana,Resolvido,5,4
+472,2026-03-31 01:18:37,,Acesso e senha,Baixa,Presencial,Sede,Diego,Em andamento,,48
+235,2026-03-31 04:20:22,2026-03-31 04:44:22,Rede e VPN,Alta,Presencial,Sede,Carla,Resolvido,4,8
+222,2026-03-31 05:47:23,,Hardware,Alta,Telefone,Remoto,Carla,Em andamento,,8
+495,2026-03-31 12:48:43,2026-04-01 03:15:07,E-mail,Média,Portal,Unidade Sul,Diego,Resolvido,5,24
+743,2026-03-31 16:42:31,2026-04-02 07:53:55,Acesso e senha,Média,Telefone,Remoto,Bruno,Fechado,3,24
+448,2026-03-31 17:28:43,2026-03-31 17:52:43,Acesso e senha,Média,Portal,Remoto,Bruno,Resolvido,5,24
+87,2026-03-31 21:06:51,2026-04-01 07:23:03,Software,Média,E-mail,Sede,Diego,Fechado,4,24
+233,2026-04-01 01:19:42,2026-04-01 03:20:54,Software,Alta,E-mail,Remoto,Diego,Fechado,2,8
+7,2026-04-01 02:17:19,2026-04-01 23:34:43,Videoconferência,Média,Portal,Unidade Norte,Ana,Fechado,5,24
+276,2026-04-01 07:21:05,2026-04-01 16:18:41,Acesso e senha,Média,Telefone,Unidade Norte,Ana,Resolvido,5,24
+649,2026-04-01 08:10:56,2026-04-02 08:20:32,Rede e VPN,Média,Portal,Remoto,Carla,Resolvido,3,24
+122,2026-04-01 10:10:40,2026-04-03 01:25:40,Rede e VPN,Baixa,Telefone,Unidade Sul,Bruno,Fechado,5,48
+545,2026-04-01 11:24:12,2026-04-02 18:41:36,Rede e VPN,Baixa,Presencial,Remoto,Bruno,Fechado,5,48
+694,2026-04-01 14:14:04,2026-04-02 01:45:52,Acesso e senha,Média,Portal,Unidade Norte,Bruno,Fechado,1,24
+594,2026-04-01 19:15:33,2026-04-02 06:08:57,Acesso e senha,Alta,Telefone,Remoto,Bruno,Resolvido,3,8
+204,2026-04-01 20:53:04,2026-04-02 13:53:04,Hardware,Média,E-mail,Unidade Sul,Carla,Fechado,5,24
+94,2026-04-02 06:34:56,,Acesso e senha,Baixa,Presencial,Unidade Sul,Ana,Em andamento,,48
+69,2026-04-02 08:17:27,,Rede e VPN,Média,Presencial,Remoto,Ana,Em andamento,,24
+517,2026-04-02 09:05:13,2026-04-02 09:29:13,E-mail,Média,Telefone,Unidade Sul,Bruno,Fechado,5,24
+424,2026-04-02 10:37:15,2026-04-03 06:24:03,Rede e VPN,Média,Telefone,Unidade Norte,Ana,Resolvido,5,24
+319,2026-04-02 17:59:52,2026-04-03 00:10:04,Hardware,Alta,Telefone,Unidade Norte,Carla,Resolvido,3,8
+397,2026-04-02 22:08:06,2026-04-05 23:03:18,Software,Baixa,Telefone,Sede,Bruno,Fechado,4,48
+266,2026-04-02 22:34:56,2026-04-03 15:43:56,Videoconferência,Média,E-mail,Unidade Sul,Bruno,Fechado,5,24
+710,2026-04-03 07:01:35,2026-04-03 13:46:35,Hardware,Alta,Presencial,Sede,Diego,Fechado,5,8
+369,2026-04-03 08:56:33,2026-04-03 16:48:09,Acesso e senha,Alta,Telefone,Sede,Bruno,Fechado,4,8
+523,2026-04-03 11:44:51,2026-04-03 22:39:27,Software,Média,Telefone,Sede,Ana,Fechado,4,24
+621,2026-04-03 12:58:50,2026-04-04 11:12:38,Videoconferência,Média,Portal,Sede,Bruno,Fechado,2,24
+511,2026-04-03 13:03:40,2026-04-03 16:52:16,Software,Alta,Portal,Sede,Ana,Fechado,3,8
+253,2026-04-04 02:14:40,2026-04-04 10:32:04,Hardware,Alta,E-mail,Unidade Norte,Ana,Resolvido,4,8
+533,2026-04-04 04:17:28,2026-04-04 04:41:28,E-mail,Média,Presencial,Sede,Carla,Fechado,1,24
+741,2026-04-04 04:48:42,2026-04-04 20:42:42,Hardware,Média,Presencial,Unidade Norte,Carla,Fechado,4,24
+202,2026-04-04 10:08:20,2026-04-04 14:45:32,E-mail,Alta,Portal,Remoto,Bruno,Resolvido,4,8
+720,2026-04-04 16:26:22,2026-04-05 02:17:22,Videoconferência,Média,Portal,Unidade Sul,Ana,Resolvido,4,24
+423,2026-04-04 20:39:34,2026-04-05 07:23:58,E-mail,Média,E-mail,Unidade Sul,Carla,Resolvido,5,24
+519,2026-04-05 11:08:46,2026-04-05 14:38:46,Software,Alta,Telefone,Sede,Ana,Resolvido,4,8
+682,2026-04-05 11:09:57,2026-04-06 04:51:57,Acesso e senha,Média,Telefone,Sede,Diego,Fechado,5,24
+247,2026-04-06 02:27:07,2026-04-06 19:45:43,Acesso e senha,Média,Telefone,Sede,Diego,Fechado,4,24
+246,2026-04-06 09:02:34,2026-04-06 14:06:46,Rede e VPN,Alta,Telefone,Unidade Sul,Diego,Fechado,4,8
+408,2026-04-06 15:19:07,2026-04-06 17:38:19,Rede e VPN,Alta,Presencial,Remoto,Ana,Fechado,3,8
+603,2026-04-06 18:27:39,2026-04-07 10:24:03,Hardware,Média,Presencial,Remoto,Bruno,Fechado,5,24
+81,2026-04-07 12:23:55,,Acesso e senha,Baixa,Telefone,Sede,Diego,Em andamento,,48
+707,2026-04-07 13:32:44,2026-04-08 05:36:20,Rede e VPN,Média,E-mail,Unidade Sul,Ana,Fechado,1,24
+263,2026-04-07 17:27:06,2026-04-08 14:28:54,Software,Baixa,Telefone,Sede,Ana,Resolvido,3,48
+331,2026-04-07 23:37:55,2026-04-08 02:21:43,Acesso e senha,Alta,Telefone,Unidade Norte,Ana,Resolvido,5,8
+411,2026-04-08 04:26:12,2026-04-08 13:55:00,Software,Média,E-mail,Sede,Carla,Fechado,5,24
+406,2026-04-08 05:30:19,2026-04-09 05:17:07,Hardware,Média,Telefone,Unidade Norte,Ana,Resolvido,5,24
+791,2026-04-08 09:23:20,2026-04-08 20:53:56,Acesso e senha,Média,Portal,Unidade Sul,Carla,Fechado,5,24
+321,2026-04-08 12:23:37,2026-04-08 13:40:25,Rede e VPN,Alta,Presencial,Unidade Norte,Carla,Resolvido,5,8
+773,2026-04-08 13:10:59,2026-04-09 18:05:35,Rede e VPN,Baixa,Portal,Sede,Carla,Fechado,5,48
+792,2026-04-08 21:15:04,,Acesso e senha,Baixa,Presencial,Unidade Norte,Diego,Em andamento,,48
+409,2026-04-08 21:42:15,2026-04-09 08:40:27,E-mail,Média,E-mail,Remoto,Ana,Resolvido,1,24
+636,2026-04-09 07:20:10,2026-04-09 07:44:10,Hardware,Média,Presencial,Unidade Sul,Diego,Fechado,4,24
+341,2026-04-09 12:06:56,2026-04-11 02:33:20,E-mail,Baixa,Portal,Unidade Norte,Diego,Resolvido,5,48
+626,2026-04-09 15:41:23,2026-04-09 16:05:23,Software,Alta,Portal,Unidade Norte,Diego,Resolvido,5,8
+604,2026-04-09 17:19:24,2026-04-09 19:03:48,Hardware,Alta,Telefone,Unidade Sul,Ana,Fechado,5,8
+717,2026-04-09 19:17:38,2026-04-11 05:33:50,Software,Baixa,E-mail,Sede,Carla,Fechado,5,48
+460,2026-04-10 01:58:10,2026-04-11 21:34:46,Acesso e senha,Baixa,Portal,Sede,Bruno,Fechado,4,48
+651,2026-04-10 11:48:31,2026-04-10 21:04:43,Acesso e senha,Média,Portal,Remoto,Bruno,Resolvido,4,24
+473,2026-04-11 13:19:28,2026-04-13 16:15:52,Videoconferência,Baixa,Telefone,Remoto,Bruno,Fechado,4,48
+679,2026-04-11 14:50:23,2026-04-12 16:27:35,E-mail,Média,E-mail,Remoto,Bruno,Resolvido,1,24
+443,2026-04-12 04:58:36,2026-04-12 12:28:36,Rede e VPN,Alta,Presencial,Sede,Carla,Fechado,3,8
+354,2026-04-12 20:05:53,2026-04-13 04:32:17,Hardware,Alta,E-mail,Sede,Carla,Fechado,4,8
+516,2026-04-12 23:01:09,2026-04-16 01:44:57,Acesso e senha,Baixa,Portal,Unidade Sul,Ana,Fechado,3,48
+120,2026-04-13 01:50:32,2026-04-13 03:37:56,E-mail,Alta,Portal,Unidade Norte,Carla,Fechado,3,8
+484,2026-04-13 16:14:37,2026-04-13 22:33:13,Acesso e senha,Média,Portal,Remoto,Carla,Fechado,4,24
+271,2026-04-14 05:06:52,,Software,Baixa,E-mail,Unidade Sul,Ana,Em andamento,,48
+254,2026-04-14 08:20:51,2026-04-15 03:38:15,Software,Média,Presencial,Remoto,Bruno,Resolvido,5,24
+497,2026-04-14 16:35:06,2026-04-16 23:10:30,Software,Média,Portal,Unidade Norte,Carla,Resolvido,4,24
+133,2026-04-15 00:40:20,2026-04-15 08:27:08,Videoconferência,Alta,Telefone,Remoto,Diego,Fechado,4,8
+261,2026-04-15 11:45:33,2026-04-16 09:33:33,Software,Média,Presencial,Unidade Norte,Ana,Fechado,4,24
+79,2026-04-15 21:58:02,2026-04-15 23:13:02,Hardware,Média,Presencial,Unidade Norte,Diego,Fechado,4,24
+531,2026-04-16 07:31:42,2026-04-17 19:09:30,Acesso e senha,Baixa,Portal,Sede,Carla,Fechado,3,48
+430,2026-04-16 19:27:28,2026-04-17 19:40:40,Acesso e senha,Média,E-mail,Remoto,Diego,Fechado,2,24
+437,2026-04-16 21:27:19,2026-04-17 21:24:19,Rede e VPN,Média,Telefone,Unidade Sul,Carla,Resolvido,3,24
+283,2026-04-17 01:38:12,2026-04-17 18:16:36,Hardware,Baixa,E-mail,Sede,Carla,Resolvido,2,48
+68,2026-04-17 01:50:40,2026-04-17 08:34:28,Acesso e senha,Alta,Telefone,Remoto,Ana,Fechado,5,8
+294,2026-04-17 08:39:22,2026-04-17 11:23:46,E-mail,Média,Portal,Unidade Sul,Ana,Fechado,5,24
+332,2026-04-17 18:30:42,,Acesso e senha,Média,Telefone,Unidade Norte,Ana,Em andamento,,24
+425,2026-04-17 18:51:14,2026-04-18 05:57:50,Software,Média,Telefone,Sede,Diego,Fechado,4,24
+138,2026-04-17 21:36:47,2026-04-19 23:21:47,Software,Baixa,E-mail,Remoto,Diego,Resolvido,2,48
+498,2026-04-18 00:13:46,2026-04-19 12:41:58,Acesso e senha,Média,E-mail,Sede,Diego,Resolvido,3,24
+400,2026-04-18 01:17:14,,E-mail,Média,Telefone,Unidade Sul,Carla,Em andamento,,24
+16,2026-04-18 02:16:13,2026-04-18 15:40:13,Software,Alta,Presencial,Unidade Sul,Diego,Fechado,4,8
+477,2026-04-18 04:47:51,,Rede e VPN,Média,E-mail,Unidade Norte,Bruno,Em andamento,,24
+595,2026-04-18 21:26:06,2026-04-19 02:19:30,Videoconferência,Média,Telefone,Unidade Norte,Ana,Fechado,5,24
+238,2026-04-19 02:04:48,2026-04-19 10:35:24,Hardware,Alta,E-mail,Remoto,Diego,Fechado,3,8
+490,2026-04-19 03:18:47,2026-04-19 22:21:47,Acesso e senha,Média,E-mail,Unidade Sul,Ana,Fechado,4,24
+278,2026-04-19 06:55:56,2026-04-21 07:49:20,Hardware,Média,Presencial,Unidade Sul,Ana,Fechado,2,24
+635,2026-04-19 11:48:28,2026-04-19 13:05:52,Hardware,Alta,Portal,Sede,Carla,Fechado,5,8
+174,2026-04-20 05:55:18,2026-04-20 13:01:54,Rede e VPN,Média,Telefone,Unidade Sul,Carla,Resolvido,5,24
+648,2026-04-20 16:02:10,2026-04-21 16:00:22,Acesso e senha,Média,Portal,Sede,Carla,Resolvido,5,24
+225,2026-04-20 19:44:01,2026-04-20 22:07:25,Videoconferência,Alta,E-mail,Remoto,Carla,Resolvido,5,8
+52,2026-04-20 20:17:19,2026-04-20 20:41:19,Software,Baixa,Portal,Unidade Norte,Carla,Fechado,5,48
+90,2026-04-21 05:25:13,,Rede e VPN,Baixa,Presencial,Unidade Sul,Bruno,Em andamento,,48
+613,2026-04-21 06:17:37,2026-04-21 15:20:37,Acesso e senha,Média,Presencial,Unidade Sul,Ana,Fechado,5,24
+286,2026-04-21 13:26:49,2026-04-22 21:26:49,Software,Média,Portal,Sede,Bruno,Resolvido,3,24
+704,2026-04-21 20:12:31,2026-04-22 11:47:19,Acesso e senha,Média,E-mail,Sede,Bruno,Fechado,5,24
+57,2026-04-21 23:41:30,2026-04-22 17:47:30,Hardware,Média,Telefone,Sede,Bruno,Fechado,4,24
+689,2026-04-22 01:31:53,2026-04-23 04:32:29,Rede e VPN,Média,E-mail,Unidade Norte,Diego,Fechado,3,24
+618,2026-04-22 04:55:43,2026-04-23 00:15:31,Videoconferência,Média,Telefone,Remoto,Ana,Fechado,5,24
+5,2026-04-23 10:39:21,2026-04-23 23:31:33,Acesso e senha,Alta,Portal,Remoto,Carla,Fechado,5,8
+522,2026-04-23 12:32:40,2026-04-25 00:15:16,Hardware,Média,E-mail,Remoto,Diego,Resolvido,4,24
+711,2026-04-23 18:01:48,,Videoconferência,Alta,Presencial,Unidade Sul,Ana,Em andamento,,8
+591,2026-04-23 21:50:13,2026-04-24 10:08:49,Acesso e senha,Média,Portal,Sede,Bruno,Resolvido,5,24
+515,2026-04-24 00:14:54,2026-04-24 17:38:18,Rede e VPN,Média,Telefone,Remoto,Ana,Fechado,5,24
+279,2026-04-24 09:49:32,2026-04-24 20:33:20,Videoconferência,Média,E-mail,Sede,Carla,Resolvido,5,24
+549,2026-04-24 22:43:39,2026-04-25 17:30:27,E-mail,Média,E-mail,Remoto,Bruno,Fechado,4,24
+737,2026-04-25 07:24:32,,E-mail,Crítica,E-mail,Unidade Sul,Diego,Em andamento,,4
+742,2026-04-25 09:54:39,2026-04-25 18:56:27,Rede e VPN,Alta,E-mail,Unidade Sul,Diego,Fechado,4,8
+391,2026-04-25 17:09:46,2026-04-27 15:14:34,E-mail,Baixa,E-mail,Sede,Carla,Fechado,4,48
+36,2026-04-27 04:13:24,2026-04-27 20:55:24,Rede e VPN,Média,E-mail,Unidade Sul,Ana,Fechado,4,24
+196,2026-04-27 09:52:46,2026-04-29 14:35:58,E-mail,Média,Portal,Unidade Norte,Carla,Fechado,4,24
+70,2026-04-27 11:03:10,2026-04-27 14:30:10,Software,Crítica,Portal,Unidade Sul,Ana,Resolvido,5,4
+392,2026-04-27 12:14:39,2026-04-28 10:51:15,Software,Baixa,E-mail,Unidade Sul,Diego,Resolvido,1,48
+583,2026-04-27 14:26:07,2026-04-29 08:04:31,Software,Baixa,Portal,Unidade Sul,Bruno,Fechado,5,48
+756,2026-04-27 19:35:00,2026-04-30 04:03:48,Rede e VPN,Média,Presencial,Sede,Carla,Fechado,4,24
+287,2026-04-28 03:57:06,2026-04-28 09:26:30,Software,Alta,E-mail,Unidade Sul,Ana,Resolvido,3,8
+384,2026-04-28 05:37:04,2026-04-29 01:33:28,Acesso e senha,Média,E-mail,Remoto,Ana,Fechado,4,24
+147,2026-04-28 07:38:09,2026-04-29 18:04:33,Acesso e senha,Baixa,Presencial,Unidade Norte,Diego,Resolvido,4,48
+351,2026-04-28 07:58:02,2026-04-28 18:02:50,Rede e VPN,Média,E-mail,Unidade Norte,Carla,Fechado,5,24
+520,2026-04-28 14:00:44,2026-04-28 14:24:44,Software,Alta,Portal,Unidade Sul,Ana,Fechado,4,8
+780,2026-04-28 16:34:32,2026-04-29 22:46:32,Hardware,Média,Portal,Unidade Sul,Carla,Fechado,3,24
+503,2026-04-28 16:53:44,2026-04-29 01:47:08,Software,Média,Portal,Unidade Sul,Diego,Resolvido,5,24
+771,2026-04-28 21:32:04,2026-04-29 21:56:04,Rede e VPN,Média,Portal,Sede,Ana,Fechado,5,24
+387,2026-04-29 02:36:55,2026-04-30 07:22:31,E-mail,Baixa,E-mail,Unidade Sul,Bruno,Fechado,5,48
+91,2026-04-29 05:07:40,2026-04-30 21:40:40,Acesso e senha,Baixa,E-mail,Sede,Ana,Fechado,5,48
+350,2026-04-29 14:06:58,2026-04-30 06:34:34,Rede e VPN,Baixa,E-mail,Unidade Norte,Diego,Fechado,4,48
+175,2026-04-29 19:09:46,2026-04-30 04:15:46,Videoconferência,Média,Presencial,Unidade Sul,Diego,Fechado,5,24
+544,2026-04-30 04:21:31,2026-05-01 09:26:55,Software,Baixa,Portal,Unidade Sul,Bruno,Resolvido,5,48
+692,2026-04-30 15:39:46,2026-05-02 05:40:22,Acesso e senha,Baixa,Telefone,Unidade Sul,Diego,Resolvido,3,48
+609,2026-04-30 17:18:20,2026-04-30 18:30:20,Videoconferência,Média,Telefone,Remoto,Bruno,Resolvido,4,24
+758,2026-05-01 00:23:34,2026-05-02 14:02:34,Acesso e senha,Baixa,Presencial,Unidade Norte,Ana,Fechado,4,48
+713,2026-05-01 04:50:08,2026-05-03 08:47:08,Hardware,Baixa,Presencial,Sede,Carla,Resolvido,3,48
+161,2026-05-01 08:35:38,2026-05-01 21:11:02,Software,Média,Presencial,Unidade Sul,Diego,Fechado,4,24
+373,2026-05-01 15:09:10,2026-05-01 18:51:46,Acesso e senha,Alta,Telefone,Remoto,Bruno,Resolvido,5,8
+32,2026-05-01 20:29:32,2026-05-01 21:39:44,Videoconferência,Média,E-mail,Unidade Sul,Diego,Resolvido,4,24
+513,2026-05-02 08:32:54,2026-05-02 11:36:30,Software,Alta,E-mail,Unidade Sul,Diego,Fechado,5,8
+83,2026-05-02 08:35:57,2026-05-03 09:23:57,Rede e VPN,Média,Presencial,Sede,Ana,Resolvido,4,24
+610,2026-05-02 14:43:04,2026-05-02 15:37:40,Acesso e senha,Média,Presencial,Remoto,Bruno,Resolvido,5,24
+426,2026-05-02 18:12:59,2026-05-03 01:25:35,Rede e VPN,Alta,Telefone,Remoto,Bruno,Fechado,4,8
+462,2026-05-02 20:24:13,,Hardware,Média,Portal,Unidade Sul,Bruno,Em andamento,,24
+799,2026-05-03 01:54:13,2026-05-04 00:16:25,Hardware,Média,E-mail,Remoto,Ana,Resolvido,5,24
+612,2026-05-03 05:57:53,2026-05-03 12:41:05,E-mail,Média,Presencial,Unidade Sul,Diego,Fechado,5,24
+260,2026-05-03 09:21:06,2026-05-03 14:42:06,Rede e VPN,Média,Portal,Unidade Norte,Bruno,Resolvido,3,24
+432,2026-05-03 12:07:04,2026-05-04 00:40:04,Rede e VPN,Média,Portal,Unidade Norte,Ana,Resolvido,4,24
+75,2026-05-03 16:06:59,2026-05-04 07:11:47,Hardware,Média,Portal,Remoto,Ana,Fechado,3,24
+417,2026-05-03 21:56:50,2026-05-05 10:39:26,Software,Média,Telefone,Remoto,Carla,Resolvido,4,24
+550,2026-05-04 01:25:54,2026-05-05 02:54:42,Hardware,Média,Presencial,Unidade Norte,Carla,Resolvido,3,24
+451,2026-05-04 10:07:40,2026-05-09 14:59:16,Hardware,Baixa,Presencial,Remoto,Ana,Resolvido,1,48
+614,2026-05-04 10:18:58,2026-05-04 16:53:10,Software,Alta,Presencial,Unidade Norte,Ana,Resolvido,5,8
+159,2026-05-04 15:34:49,2026-05-05 16:04:49,Hardware,Baixa,E-mail,Unidade Sul,Ana,Fechado,5,48
+292,2026-05-04 20:50:42,2026-05-05 04:44:42,Acesso e senha,Baixa,Portal,Unidade Sul,Carla,Resolvido,4,48
+273,2026-05-05 01:38:25,2026-05-05 02:02:25,Acesso e senha,Baixa,Presencial,Unidade Sul,Carla,Resolvido,4,48
+1,2026-05-05 11:56:41,2026-05-05 18:55:29,Rede e VPN,Alta,Portal,Sede,Ana,Fechado,5,8
+398,2026-05-05 15:58:25,2026-05-06 10:17:37,Acesso e senha,Média,E-mail,Unidade Norte,Ana,Fechado,4,24
+35,2026-05-05 21:31:17,2026-05-06 11:34:17,Rede e VPN,Média,Telefone,Sede,Ana,Resolvido,5,24
+199,2026-05-06 06:04:12,2026-05-06 17:00:36,E-mail,Média,E-mail,Unidade Sul,Bruno,Fechado,4,24
+674,2026-05-06 08:41:42,2026-05-06 11:52:30,Software,Alta,Presencial,Unidade Norte,Carla,Fechado,5,8
+772,2026-05-06 11:06:34,2026-05-07 05:26:22,Hardware,Média,Presencial,Unidade Sul,Carla,Fechado,3,24
+435,2026-05-06 11:56:12,2026-05-06 15:04:00,Software,Alta,Presencial,Unidade Norte,Ana,Fechado,4,8
+507,2026-05-06 13:52:01,2026-05-07 18:24:25,Acesso e senha,Média,E-mail,Remoto,Carla,Resolvido,2,24
+257,2026-05-06 19:22:09,,E-mail,Alta,Presencial,Remoto,Ana,Em andamento,,8
+201,2026-05-06 21:52:03,2026-05-06 22:47:51,Software,Alta,Portal,Unidade Norte,Bruno,Fechado,2,8
+76,2026-05-07 02:32:45,2026-05-07 19:22:33,Software,Baixa,E-mail,Remoto,Bruno,Fechado,4,48
+381,2026-05-07 06:20:39,2026-05-07 22:50:03,Rede e VPN,Média,E-mail,Remoto,Diego,Fechado,4,24
+656,2026-05-07 06:48:11,2026-05-07 14:24:47,Hardware,Alta,Presencial,Unidade Norte,Diego,Fechado,3,8
+714,2026-05-07 17:30:49,2026-05-10 11:06:13,E-mail,Baixa,E-mail,Unidade Norte,Carla,Resolvido,4,48
+377,2026-05-08 07:25:58,2026-05-09 17:09:10,Hardware,Baixa,Presencial,Unidade Sul,Ana,Fechado,4,48
+788,2026-05-08 07:29:11,2026-05-09 16:22:35,Software,Média,E-mail,Sede,Carla,Resolvido,4,24
+566,2026-05-08 16:03:55,2026-05-09 01:52:31,Hardware,Média,Telefone,Unidade Norte,Carla,Resolvido,3,24
+316,2026-05-08 17:44:20,2026-05-08 21:10:08,E-mail,Média,Presencial,Unidade Sul,Bruno,Fechado,5,24
+644,2026-05-08 17:59:12,,Software,Média,E-mail,Unidade Norte,Ana,Em andamento,,24
+439,2026-05-09 03:51:03,2026-05-10 20:35:27,E-mail,Baixa,Portal,Sede,Ana,Fechado,4,48
+348,2026-05-09 04:37:50,,Software,Média,Portal,Sede,Diego,Em andamento,,24
+209,2026-05-09 08:29:15,2026-05-10 09:53:51,Acesso e senha,Média,Portal,Remoto,Bruno,Resolvido,5,24
+330,2026-05-09 19:34:49,2026-05-10 00:31:49,Software,Alta,Telefone,Sede,Ana,Fechado,5,8
+378,2026-05-10 00:18:20,,Videoconferência,Alta,E-mail,Unidade Norte,Diego,Em andamento,,8
+28,2026-05-10 03:36:55,2026-05-10 10:37:31,E-mail,Alta,Telefone,Unidade Norte,Carla,Fechado,3,8
+569,2026-05-10 13:42:11,2026-05-11 09:42:11,Hardware,Média,Portal,Remoto,Diego,Resolvido,4,24
+599,2026-05-10 18:56:24,2026-05-11 21:43:48,Software,Média,E-mail,Sede,Ana,Fechado,4,24
+154,2026-05-11 00:21:32,2026-05-11 10:32:56,Acesso e senha,Média,E-mail,Unidade Sul,Bruno,Fechado,5,24
+185,2026-05-11 06:57:30,2026-05-11 10:54:30,Videoconferência,Alta,Presencial,Unidade Sul,Carla,Resolvido,4,8
+365,2026-05-11 11:59:17,2026-05-12 05:51:29,Acesso e senha,Média,Presencial,Sede,Bruno,Fechado,5,24
+526,2026-05-11 23:29:02,2026-05-12 00:00:14,Acesso e senha,Crítica,Portal,Sede,Ana,Fechado,4,4
+593,2026-05-12 02:51:26,2026-05-12 22:34:38,Acesso e senha,Baixa,Portal,Unidade Sul,Ana,Resolvido,4,48
+596,2026-05-12 05:48:29,2026-05-13 12:45:29,Acesso e senha,Média,E-mail,Sede,Carla,Fechado,2,24
+444,2026-05-12 07:21:47,2026-05-14 09:22:23,Rede e VPN,Média,E-mail,Remoto,Carla,Fechado,3,24
+96,2026-05-12 08:57:58,2026-05-12 09:21:58,Acesso e senha,Alta,Telefone,Remoto,Ana,Resolvido,5,8
+739,2026-05-12 09:11:40,2026-05-13 03:51:16,Acesso e senha,Média,Presencial,Unidade Sul,Bruno,Resolvido,3,24
+325,2026-05-12 17:52:29,2026-05-12 21:03:17,Rede e VPN,Crítica,Telefone,Unidade Norte,Ana,Resolvido,3,4
+39,2026-05-12 20:31:49,2026-05-12 22:33:01,Acesso e senha,Média,Telefone,Remoto,Diego,Resolvido,5,24
+783,2026-05-12 23:22:48,2026-05-13 13:15:00,Software,Média,Presencial,Sede,Diego,Resolvido,4,24
+11,2026-05-13 10:21:01,2026-05-14 11:52:13,Rede e VPN,Média,Presencial,Unidade Norte,Diego,Fechado,2,24
+188,2026-05-13 10:37:23,2026-05-14 01:21:11,E-mail,Baixa,E-mail,Unidade Norte,Bruno,Resolvido,5,48
+315,2026-05-14 05:35:47,,Acesso e senha,Alta,Telefone,Unidade Sul,Carla,Em andamento,,8
+488,2026-05-14 12:13:35,2026-05-15 03:36:59,Hardware,Média,Telefone,Remoto,Diego,Fechado,4,24
+106,2026-05-14 13:26:45,2026-05-15 05:56:45,Rede e VPN,Alta,Telefone,Remoto,Carla,Fechado,4,8
+318,2026-05-14 14:28:27,2026-05-15 00:50:03,E-mail,Média,E-mail,Unidade Sul,Ana,Fechado,5,24
+352,2026-05-14 15:50:26,,Rede e VPN,Média,E-mail,Unidade Sul,Ana,Em andamento,,24
+465,2026-05-15 00:47:31,2026-05-19 21:15:43,Software,Média,Portal,Unidade Norte,Carla,Fechado,3,24
+681,2026-05-15 03:03:21,,Software,Baixa,E-mail,Unidade Norte,Bruno,Em andamento,,48
+436,2026-05-15 04:08:15,2026-05-16 23:30:27,Rede e VPN,Média,Presencial,Unidade Norte,Bruno,Fechado,4,24
+329,2026-05-15 06:28:00,2026-05-15 08:05:48,Software,Alta,Portal,Unidade Sul,Diego,Fechado,4,8
+655,2026-05-15 10:43:10,2026-05-16 13:21:34,Rede e VPN,Média,Portal,Unidade Norte,Diego,Resolvido,5,24
+663,2026-05-15 10:53:01,2026-05-17 06:59:01,Rede e VPN,Média,E-mail,Sede,Ana,Fechado,3,24
+587,2026-05-15 12:31:46,2026-05-15 18:44:22,E-mail,Média,Telefone,Sede,Ana,Fechado,4,24
+476,2026-05-15 15:38:12,2026-05-16 06:15:24,Rede e VPN,Média,Presencial,Unidade Norte,Diego,Fechado,3,24
+543,2026-05-15 18:37:25,2026-05-16 00:59:37,Acesso e senha,Alta,Portal,Unidade Norte,Diego,Resolvido,3,8
+356,2026-05-15 21:18:58,2026-05-17 09:59:46,Videoconferência,Média,Telefone,Unidade Norte,Diego,Fechado,1,24
+458,2026-05-16 07:15:58,2026-05-17 13:26:10,Acesso e senha,Média,Portal,Remoto,Ana,Fechado,4,24
+203,2026-05-16 09:51:12,,Acesso e senha,Média,Telefone,Unidade Sul,Diego,Em andamento,,24
+770,2026-05-16 13:43:02,2026-05-16 19:47:50,Hardware,Alta,Portal,Unidade Norte,Carla,Fechado,5,8
+211,2026-05-16 17:21:24,2026-05-16 21:38:12,Rede e VPN,Alta,Portal,Remoto,Diego,Fechado,5,8
+67,2026-05-17 20:09:34,2026-05-19 02:42:34,Acesso e senha,Baixa,E-mail,Remoto,Ana,Fechado,5,48
+153,2026-05-18 01:03:14,2026-05-20 22:48:50,Videoconferência,Média,Presencial,Sede,Carla,Fechado,5,24
+244,2026-05-18 01:07:42,,Software,Média,Portal,Unidade Norte,Diego,Em andamento,,24
+296,2026-05-18 03:13:46,2026-05-18 11:02:22,Videoconferência,Crítica,Telefone,Unidade Sul,Carla,Resolvido,4,4
+666,2026-05-18 12:05:07,2026-05-18 21:05:43,Videoconferência,Alta,Portal,Sede,Ana,Fechado,5,8
+688,2026-05-18 15:49:51,2026-05-18 20:28:51,Rede e VPN,Crítica,Portal,Unidade Norte,Ana,Fechado,4,4
+18,2026-05-18 18:46:40,2026-05-19 11:47:16,Hardware,Média,E-mail,Remoto,Bruno,Fechado,4,24
+486,2026-05-18 22:15:18,2026-05-19 13:00:54,Acesso e senha,Média,E-mail,Remoto,Diego,Fechado,5,24
+37,2026-05-18 23:10:43,2026-05-19 06:36:31,Software,Média,Telefone,Unidade Sul,Ana,Resolvido,4,24
+277,2026-05-19 10:14:01,2026-05-19 10:38:01,Hardware,Alta,Portal,Remoto,Diego,Resolvido,5,8
+632,2026-05-19 21:26:52,2026-05-20 02:53:16,Videoconferência,Alta,E-mail,Unidade Sul,Bruno,Fechado,4,8
+126,2026-05-20 00:57:06,2026-05-20 04:17:30,Rede e VPN,Alta,Telefone,Remoto,Diego,Fechado,4,8
+750,2026-05-20 01:24:09,2026-05-20 03:22:21,Rede e VPN,Crítica,Portal,Remoto,Carla,Fechado,5,4
+786,2026-05-20 07:42:26,2026-05-20 09:42:26,Videoconferência,Crítica,Portal,Unidade Norte,Diego,Fechado,5,4
+592,2026-05-20 07:55:26,2026-05-20 08:45:50,Hardware,Alta,Telefone,Unidade Norte,Diego,Fechado,5,8
+42,2026-05-20 19:44:04,2026-05-21 06:21:52,Software,Média,Portal,Remoto,Bruno,Resolvido,5,24
+38,2026-05-21 02:17:52,2026-05-21 02:41:52,Software,Baixa,E-mail,Remoto,Diego,Fechado,5,48
+317,2026-05-21 09:25:24,2026-05-21 13:49:24,Software,Crítica,E-mail,Unidade Sul,Bruno,Fechado,5,4
+172,2026-05-21 09:58:05,2026-05-21 17:23:17,Software,Alta,E-mail,Sede,Ana,Fechado,4,8
+114,2026-05-21 10:52:51,2026-05-21 11:16:51,Videoconferência,Média,Portal,Sede,Carla,Resolvido,5,24
+662,2026-05-21 17:24:03,2026-05-22 07:52:15,Videoconferência,Média,E-mail,Unidade Norte,Carla,Fechado,5,24
+128,2026-05-21 20:50:35,2026-05-23 06:49:59,Videoconferência,Baixa,Presencial,Unidade Norte,Ana,Fechado,4,48
+388,2026-05-21 22:57:18,2026-05-23 15:36:54,Videoconferência,Média,Presencial,Unidade Norte,Ana,Fechado,5,24
+764,2026-05-22 02:41:38,2026-05-22 07:41:38,Acesso e senha,Média,E-mail,Unidade Sul,Diego,Fechado,5,24
+598,2026-05-22 03:40:45,2026-05-22 15:45:33,Rede e VPN,Média,Presencial,Unidade Sul,Diego,Fechado,5,24
+78,2026-05-22 07:38:34,,Software,Média,Presencial,Unidade Norte,Diego,Em andamento,,24
+105,2026-05-22 13:11:52,2026-05-23 23:07:04,E-mail,Baixa,Presencial,Remoto,Diego,Fechado,3,48
+726,2026-05-22 13:27:24,2026-05-23 01:17:48,Software,Alta,Telefone,Remoto,Diego,Fechado,4,8
+376,2026-05-22 14:02:52,2026-05-23 16:16:04,Acesso e senha,Alta,Portal,Unidade Sul,Diego,Fechado,4,8
+4,2026-05-23 00:47:47,,Acesso e senha,Média,Portal,Unidade Sul,Carla,Em andamento,,24
+207,2026-05-23 14:57:58,2026-05-24 08:35:46,Acesso e senha,Baixa,Portal,Sede,Ana,Fechado,5,48
+449,2026-05-23 21:55:38,2026-05-23 22:19:38,Hardware,Alta,Telefone,Sede,Diego,Fechado,3,8
+152,2026-05-24 04:29:36,,Software,Alta,Portal,Unidade Sul,Carla,Em andamento,,8
+558,2026-05-24 04:53:37,,Software,Baixa,Telefone,Sede,Ana,Em andamento,,48
+647,2026-05-24 05:29:33,2026-05-26 04:03:45,Hardware,Baixa,Presencial,Remoto,Carla,Fechado,4,48
+560,2026-05-24 12:26:24,,Software,Baixa,E-mail,Unidade Norte,Carla,Em andamento,,48
+600,2026-05-24 14:23:22,2026-05-25 01:56:22,Acesso e senha,Alta,E-mail,Unidade Sul,Ana,Fechado,4,8
+736,2026-05-24 14:25:14,2026-05-24 16:48:38,E-mail,Crítica,Presencial,Unidade Sul,Carla,Fechado,5,4
+61,2026-05-24 18:08:49,,Rede e VPN,Média,Telefone,Sede,Bruno,Em andamento,,24
+747,2026-05-26 04:24:49,2026-05-26 22:03:49,Acesso e senha,Média,Presencial,Remoto,Diego,Fechado,3,24
+705,2026-05-26 04:29:17,2026-05-26 11:02:17,Hardware,Alta,Telefone,Remoto,Ana,Resolvido,5,8
+395,2026-05-26 13:04:00,,E-mail,Alta,Portal,Unidade Norte,Diego,Em andamento,,8
+641,2026-05-26 22:57:29,2026-05-27 14:39:29,Hardware,Média,E-mail,Remoto,Ana,Fechado,5,24
+699,2026-05-27 11:48:29,2026-05-28 00:20:17,Hardware,Média,E-mail,Sede,Diego,Resolvido,5,24
+145,2026-05-27 14:35:24,2026-05-28 01:11:24,Hardware,Média,Presencial,Remoto,Diego,Resolvido,5,24
+180,2026-05-28 02:48:03,2026-05-29 09:28:51,Hardware,Baixa,Portal,Unidade Norte,Diego,Resolvido,5,48
+3,2026-05-28 16:17:55,2026-05-30 21:28:43,Rede e VPN,Baixa,Telefone,Unidade Sul,Ana,Resolvido,2,48
+345,2026-05-28 18:41:14,2026-05-29 21:56:50,Acesso e senha,Média,Telefone,Sede,Ana,Fechado,4,24
+241,2026-05-28 21:52:33,,Software,Média,Portal,Unidade Norte,Carla,Em andamento,,24
+601,2026-05-28 22:39:20,2026-05-29 05:14:44,Rede e VPN,Alta,Telefone,Sede,Ana,Fechado,4,8
+85,2026-05-28 23:34:46,2026-05-29 01:29:58,E-mail,Média,Portal,Unidade Sul,Carla,Fechado,2,24
+163,2026-05-29 00:57:20,2026-05-29 17:37:32,Software,Média,Portal,Sede,Carla,Resolvido,4,24
+353,2026-05-29 01:28:06,2026-05-29 01:52:06,Software,Média,Telefone,Remoto,Ana,Fechado,5,24
+219,2026-05-29 04:07:54,2026-05-29 09:10:18,Acesso e senha,Média,Portal,Unidade Sul,Diego,Resolvido,4,24
+380,2026-05-29 04:43:06,2026-05-30 01:07:42,Acesso e senha,Média,Presencial,Sede,Ana,Fechado,4,24
+668,2026-05-29 07:00:46,2026-05-30 14:25:22,Rede e VPN,Média,Portal,Unidade Norte,Diego,Fechado,3,24
+13,2026-05-29 09:33:28,,Videoconferência,Alta,Portal,Unidade Sul,Diego,Em andamento,,8
+259,2026-05-29 10:33:37,2026-05-29 22:10:13,Videoconferência,Média,Portal,Remoto,Carla,Resolvido,4,24
+71,2026-05-29 12:20:44,2026-05-31 03:21:56,Software,Baixa,Portal,Remoto,Carla,Fechado,4,48
+580,2026-05-29 19:50:45,2026-05-29 20:30:21,Videoconferência,Média,Telefone,Remoto,Ana,Fechado,5,24
+570,2026-05-30 13:33:15,2026-05-31 00:57:15,Software,Alta,Presencial,Unidade Sul,Bruno,Resolvido,4,8
+529,2026-05-30 17:28:24,2026-05-31 04:52:24,E-mail,Média,Portal,Remoto,Diego,Resolvido,3,24
+671,2026-05-30 21:10:04,,E-mail,Crítica,Portal,Unidade Sul,Carla,Em andamento,,4
+434,2026-05-31 00:10:27,2026-05-31 07:48:51,Acesso e senha,Alta,Portal,Sede,Carla,Fechado,5,8
+230,2026-05-31 07:22:32,2026-06-01 07:50:44,Rede e VPN,Média,E-mail,Unidade Sul,Carla,Fechado,2,24
+525,2026-05-31 11:08:41,2026-05-31 18:28:29,Hardware,Média,E-mail,Unidade Sul,Ana,Fechado,5,24
+127,2026-05-31 17:16:03,2026-05-31 17:40:03,Software,Média,Presencial,Unidade Sul,Carla,Resolvido,3,24
+589,2026-05-31 18:19:40,2026-06-03 01:36:28,Software,Média,Telefone,Sede,Ana,Fechado,3,24
+471,2026-06-01 01:25:22,2026-06-01 03:33:10,Rede e VPN,Crítica,Portal,Sede,Diego,Fechado,4,4
+532,2026-06-01 06:11:15,2026-06-01 08:59:51,E-mail,Média,Presencial,Sede,Diego,Resolvido,5,24
+800,2026-06-01 08:29:17,2026-06-02 02:05:17,E-mail,Média,E-mail,Sede,Diego,Resolvido,5,24
+150,2026-06-01 12:08:40,,Hardware,Média,Portal,Unidade Norte,Diego,Em andamento,,24
+256,2026-06-01 14:15:42,2026-06-02 05:01:18,Acesso e senha,Baixa,E-mail,Remoto,Carla,Resolvido,5,48
+467,2026-06-01 14:54:21,2026-06-02 01:27:21,Acesso e senha,Alta,E-mail,Sede,Carla,Fechado,4,8
+712,2026-06-02 07:23:45,2026-06-02 19:50:45,Videoconferência,Alta,Presencial,Remoto,Ana,Fechado,3,8
+217,2026-06-02 11:35:56,2026-06-04 09:57:32,Software,Baixa,Telefone,Unidade Norte,Ana,Fechado,3,48
+19,2026-06-02 16:35:29,2026-06-03 05:09:05,Software,Média,Portal,Sede,Ana,Fechado,4,24
+493,2026-06-02 18:06:14,2026-06-02 18:30:14,Acesso e senha,Crítica,Presencial,Unidade Sul,Carla,Resolvido,4,4
+731,2026-06-02 22:26:06,2026-06-03 06:48:54,Hardware,Média,Telefone,Unidade Norte,Bruno,Fechado,4,24
+396,2026-06-02 23:24:12,2026-06-03 10:57:48,Software,Média,Portal,Sede,Bruno,Resolvido,5,24
+652,2026-06-02 23:51:02,2026-06-03 04:48:02,Hardware,Alta,Presencial,Remoto,Carla,Resolvido,5,8
+102,2026-06-03 03:35:01,2026-06-03 20:06:49,Acesso e senha,Média,Portal,Unidade Sul,Bruno,Resolvido,3,24
+293,2026-06-03 03:46:44,2026-06-03 04:29:56,Acesso e senha,Alta,Presencial,Remoto,Carla,Fechado,5,8
+670,2026-06-03 04:41:28,2026-06-03 07:36:40,E-mail,Alta,Portal,Remoto,Bruno,Fechado,4,8
+142,2026-06-03 10:46:10,2026-06-04 03:31:46,Hardware,Alta,Telefone,Unidade Sul,Bruno,Fechado,2,8
+95,2026-06-03 20:50:42,2026-06-05 01:08:42,Hardware,Média,Presencial,Unidade Sul,Ana,Fechado,3,24
+627,2026-06-03 22:25:01,2026-06-04 22:43:01,Acesso e senha,Média,E-mail,Remoto,Carla,Fechado,4,24
+542,2026-06-03 22:34:15,2026-06-08 03:01:15,Software,Baixa,Telefone,Remoto,Diego,Resolvido,4,48
+735,2026-06-04 02:35:27,2026-06-04 11:48:03,E-mail,Alta,E-mail,Unidade Norte,Carla,Fechado,1,8
+489,2026-06-05 03:28:29,2026-06-05 03:52:29,Acesso e senha,Crítica,Portal,Unidade Sul,Carla,Fechado,5,4
+790,2026-06-05 04:42:14,2026-06-05 15:00:14,E-mail,Média,E-mail,Unidade Sul,Bruno,Fechado,4,24
+571,2026-06-05 14:17:42,2026-06-06 05:39:18,E-mail,Média,E-mail,Sede,Carla,Fechado,5,24
+645,2026-06-05 23:31:51,2026-06-07 08:52:51,Hardware,Média,Presencial,Sede,Ana,Fechado,2,24
+33,2026-06-06 02:41:12,2026-06-07 00:37:00,Rede e VPN,Média,E-mail,Remoto,Carla,Resolvido,4,24
+575,2026-06-06 09:26:45,2026-06-07 01:01:33,Acesso e senha,Média,Portal,Unidade Norte,Bruno,Fechado,4,24
+412,2026-06-06 11:19:11,2026-06-07 14:02:23,Software,Alta,E-mail,Remoto,Diego,Resolvido,4,8
+268,2026-06-06 12:29:12,2026-06-07 15:19:36,Acesso e senha,Média,Presencial,Sede,Carla,Resolvido,2,24
+540,2026-06-06 13:01:30,2026-06-07 04:52:30,Hardware,Alta,E-mail,Sede,Bruno,Fechado,3,8
+730,2026-06-06 13:15:45,2026-06-07 06:37:57,Hardware,Média,Portal,Unidade Sul,Ana,Resolvido,3,24
+8,2026-06-06 15:47:07,2026-06-07 22:35:07,Hardware,Média,Presencial,Unidade Norte,Carla,Fechado,3,24
+200,2026-06-06 19:11:20,2026-06-07 12:32:20,Acesso e senha,Média,Telefone,Unidade Norte,Carla,Fechado,4,24
+781,2026-06-06 21:29:29,2026-06-07 03:28:17,Software,Alta,Portal,Unidade Sul,Bruno,Fechado,3,8
+774,2026-06-08 10:34:39,,Rede e VPN,Alta,Presencial,Unidade Sul,Ana,Em andamento,,8
+336,2026-06-08 14:00:31,2026-06-09 14:06:31,Acesso e senha,Média,Presencial,Remoto,Bruno,Fechado,4,24
+171,2026-06-08 17:39:54,2026-06-08 19:26:42,Hardware,Crítica,Presencial,Unidade Sul,Bruno,Fechado,5,4
+208,2026-06-09 04:08:14,2026-06-09 22:25:38,Rede e VPN,Média,Telefone,Sede,Diego,Resolvido,4,24
+41,2026-06-09 06:07:47,2026-06-13 15:45:35,Hardware,Baixa,Presencial,Remoto,Bruno,Fechado,4,48
+442,2026-06-09 22:55:16,2026-06-10 11:31:16,Rede e VPN,Média,Telefone,Sede,Bruno,Resolvido,3,24
+733,2026-06-10 00:14:13,,Videoconferência,Média,Portal,Remoto,Bruno,Em andamento,,24
+624,2026-06-10 02:05:45,2026-06-12 11:56:09,Hardware,Baixa,Presencial,Sede,Carla,Resolvido,4,48
+326,2026-06-10 07:23:25,2026-06-10 08:24:01,Videoconferência,Crítica,Presencial,Unidade Sul,Bruno,Fechado,3,4
+347,2026-06-10 10:42:02,2026-06-11 08:58:50,Rede e VPN,Baixa,Portal,Remoto,Diego,Fechado,5,48
+160,2026-06-10 13:52:47,,Acesso e senha,Baixa,Telefone,Unidade Norte,Diego,Em andamento,,48
+168,2026-06-10 14:13:46,2026-06-11 21:43:46,Rede e VPN,Baixa,Telefone,Unidade Sul,Bruno,Fechado,5,48
+693,2026-06-11 01:33:16,2026-06-11 21:36:52,Acesso e senha,Baixa,Telefone,Sede,Carla,Fechado,5,48
+357,2026-06-11 12:00:12,2026-06-11 15:35:00,Rede e VPN,Alta,E-mail,Unidade Norte,Carla,Fechado,5,8
+143,2026-06-11 13:52:05,2026-06-12 17:35:53,Software,Baixa,Portal,Unidade Norte,Ana,Fechado,4,48
+44,2026-06-11 14:43:58,2026-06-12 07:43:22,Software,Baixa,Telefone,Remoto,Bruno,Fechado,5,48
+226,2026-06-11 18:03:14,2026-06-12 00:53:02,E-mail,Média,Presencial,Remoto,Ana,Resolvido,5,24
+585,2026-06-11 19:24:49,2026-06-12 03:23:01,E-mail,Alta,Portal,Remoto,Diego,Fechado,5,8
+99,2026-06-12 05:17:28,,Software,Média,Portal,Unidade Sul,Bruno,Em andamento,,24
+686,2026-06-12 08:51:55,2026-06-13 13:26:43,Software,Média,Presencial,Unidade Norte,Carla,Fechado,3,24
+440,2026-06-12 12:16:59,2026-06-12 21:13:59,Acesso e senha,Baixa,Presencial,Remoto,Carla,Resolvido,5,48
+349,2026-06-13 05:09:59,2026-06-16 08:44:47,Videoconferência,Média,Telefone,Remoto,Diego,Resolvido,4,24
+697,2026-06-13 08:17:46,2026-06-14 02:57:58,Videoconferência,Média,Portal,Unidade Sul,Ana,Resolvido,5,24
+466,2026-06-13 08:27:30,2026-06-14 13:14:18,Rede e VPN,Baixa,Presencial,Unidade Sul,Bruno,Fechado,4,48
+101,2026-06-15 00:07:15,2026-06-16 04:13:51,Acesso e senha,Baixa,Telefone,Unidade Norte,Bruno,Fechado,2,48
+794,2026-06-15 00:17:32,2026-06-18 04:19:56,E-mail,Média,E-mail,Sede,Diego,Fechado,5,24
+54,2026-06-15 10:39:13,2026-06-15 21:17:01,E-mail,Média,Telefone,Sede,Carla,Resolvido,5,24
+314,2026-06-15 16:40:45,2026-06-16 00:52:45,Hardware,Média,Telefone,Unidade Sul,Carla,Resolvido,4,24
+646,2026-06-15 20:13:10,2026-06-16 05:42:34,Hardware,Alta,Telefone,Remoto,Diego,Fechado,2,8
+427,2026-06-16 01:30:52,2026-06-16 04:02:04,Acesso e senha,Alta,E-mail,Sede,Ana,Fechado,4,8
+732,2026-06-16 08:35:06,,Rede e VPN,Baixa,Portal,Unidade Sul,Carla,Em andamento,,48
+552,2026-06-16 17:47:13,2026-06-17 08:01:01,E-mail,Média,Presencial,Unidade Norte,Bruno,Fechado,4,24
+623,2026-06-16 20:55:31,,Acesso e senha,Média,Telefone,Unidade Sul,Ana,Em andamento,,24
+307,2026-06-16 23:39:50,2026-06-19 02:19:26,Acesso e senha,Média,Telefone,Remoto,Ana,Fechado,4,24
+557,2026-06-17 09:40:25,2026-06-18 02:03:49,Hardware,Média,E-mail,Sede,Carla,Resolvido,5,24
+243,2026-06-17 12:46:39,2026-06-18 07:22:39,Rede e VPN,Média,Telefone,Unidade Norte,Carla,Resolvido,4,24
+768,2026-06-17 15:36:14,2026-06-19 00:05:38,Rede e VPN,Média,Portal,Remoto,Ana,Fechado,3,24
+322,2026-06-17 19:02:49,2026-06-18 18:43:01,Rede e VPN,Média,Portal,Remoto,Carla,Resolvido,5,24
+734,2026-06-18 09:21:52,2026-06-19 08:20:40,Hardware,Média,Presencial,Remoto,Carla,Fechado,5,24
+510,2026-06-18 10:21:34,2026-06-18 10:45:34,Software,Crítica,Presencial,Unidade Norte,Bruno,Fechado,4,4
+625,2026-06-18 13:55:28,2026-06-18 19:18:16,Rede e VPN,Alta,Portal,Unidade Norte,Carla,Fechado,5,8
+113,2026-06-19 05:51:14,2026-06-19 19:50:02,Rede e VPN,Alta,E-mail,Unidade Sul,Carla,Fechado,3,8
+311,2026-06-19 08:44:03,2026-06-20 01:35:03,Software,Média,Portal,Unidade Sul,Ana,Resolvido,5,24
+63,2026-06-19 19:10:07,2026-06-19 21:53:19,Hardware,Crítica,Presencial,Sede,Ana,Fechado,4,4
+141,2026-06-19 22:01:10,,Rede e VPN,Média,Telefone,Sede,Carla,Em andamento,,24
+242,2026-06-20 04:54:33,2026-06-20 23:31:45,Software,Baixa,E-mail,Unidade Norte,Carla,Fechado,5,48
+195,2026-06-20 06:45:56,2026-06-20 09:28:32,Acesso e senha,Média,Portal,Sede,Diego,Resolvido,4,24
+131,2026-06-20 12:17:10,2026-06-23 10:58:34,Acesso e senha,Baixa,E-mail,Remoto,Ana,Fechado,4,48
+724,2026-06-20 21:35:02,2026-06-21 18:19:26,Acesso e senha,Média,Telefone,Remoto,Bruno,Fechado,5,24
+708,2026-06-21 05:33:21,2026-06-22 03:07:33,Acesso e senha,Média,E-mail,Unidade Norte,Bruno,Fechado,3,24
+250,2026-06-21 15:06:23,,Acesso e senha,Média,Telefone,Sede,Carla,Em andamento,,24
+181,2026-06-21 15:33:34,2026-06-23 12:32:22,Videoconferência,Baixa,Telefone,Sede,Ana,Fechado,5,48
+167,2026-06-21 16:32:30,2026-06-22 10:06:42,Hardware,Média,Presencial,Remoto,Carla,Fechado,4,24
+361,2026-06-21 20:55:37,2026-06-22 04:03:25,Hardware,Alta,Portal,Sede,Carla,Fechado,5,8
+536,2026-06-22 05:23:49,2026-06-23 01:00:25,Rede e VPN,Média,Telefone,Remoto,Diego,Fechado,3,24
+383,2026-06-22 14:31:15,2026-06-25 13:22:15,Software,Média,E-mail,Unidade Norte,Carla,Fechado,2,24
+98,2026-06-22 14:55:41,2026-06-22 23:01:41,Hardware,Média,E-mail,Remoto,Ana,Fechado,5,24
+418,2026-06-22 16:56:37,2026-06-22 17:20:37,E-mail,Média,E-mail,Unidade Sul,Ana,Resolvido,2,24
+108,2026-06-22 18:48:14,2026-06-22 23:32:02,Hardware,Alta,E-mail,Remoto,Ana,Fechado,4,8
+496,2026-06-22 23:54:23,2026-06-23 02:04:35,Software,Crítica,E-mail,Unidade Sul,Carla,Fechado,4,4
+183,2026-06-23 00:15:06,2026-06-23 05:21:06,E-mail,Baixa,Presencial,Unidade Sul,Bruno,Resolvido,3,48
+306,2026-06-23 01:42:58,2026-06-23 18:49:34,Rede e VPN,Baixa,Telefone,Unidade Sul,Diego,Resolvido,5,48
+701,2026-06-23 15:41:16,2026-06-24 03:28:40,Rede e VPN,Baixa,Portal,Sede,Diego,Fechado,3,48
+146,2026-06-24 01:18:46,2026-06-25 01:41:34,Hardware,Baixa,Presencial,Sede,Diego,Resolvido,3,48
+728,2026-06-24 02:27:52,2026-06-24 04:41:40,E-mail,Alta,Telefone,Unidade Sul,Ana,Fechado,5,8
+346,2026-06-24 11:45:01,2026-06-24 17:28:13,Acesso e senha,Alta,Presencial,Unidade Norte,Diego,Resolvido,5,8
+390,2026-06-24 12:10:41,2026-06-24 12:37:41,Rede e VPN,Baixa,Presencial,Remoto,Carla,Fechado,5,48
+17,2026-06-25 00:30:19,2026-06-25 11:17:43,Acesso e senha,Média,E-mail,Sede,Ana,Fechado,4,24
+777,2026-06-25 12:53:53,,Software,Baixa,Portal,Unidade Norte,Ana,Em andamento,,48
+22,2026-06-25 13:41:18,,Hardware,Alta,Telefone,Remoto,Carla,Em andamento,,8
+445,2026-06-25 13:53:05,2026-06-25 19:10:29,Videoconferência,Média,E-mail,Remoto,Carla,Fechado,5,24
+499,2026-06-25 17:38:51,2026-06-26 14:41:51,Acesso e senha,Média,Presencial,Unidade Sul,Carla,Resolvido,5,24
+539,2026-06-26 00:01:55,2026-06-27 21:05:31,E-mail,Média,Presencial,Unidade Norte,Ana,Fechado,2,24
+371,2026-06-26 04:31:57,2026-06-26 22:23:33,Software,Média,Portal,Remoto,Ana,Resolvido,5,24
+49,2026-06-26 10:35:41,2026-06-26 22:48:53,Software,Média,E-mail,Remoto,Carla,Resolvido,4,24
+281,2026-06-26 17:00:16,2026-06-27 01:41:04,Hardware,Alta,Presencial,Remoto,Ana,Resolvido,3,8
+303,2026-06-27 04:39:23,2026-06-27 21:56:11,E-mail,Média,Presencial,Sede,Diego,Fechado,5,24
+338,2026-06-27 06:37:28,2026-06-28 01:00:16,E-mail,Média,E-mail,Remoto,Diego,Resolvido,5,24
+313,2026-06-27 07:58:11,2026-06-27 16:14:59,Acesso e senha,Alta,Telefone,Remoto,Diego,Fechado,5,8
+553,2026-06-27 18:24:20,,Acesso e senha,Média,Portal,Remoto,Ana,Em andamento,,24
+586,2026-06-28 05:00:52,,E-mail,Alta,Presencial,Unidade Sul,Carla,Em andamento,,8
+524,2026-06-28 12:50:54,2026-06-28 18:38:18,Hardware,Média,Telefone,Remoto,Diego,Resolvido,5,24
+310,2026-06-28 14:20:05,2026-06-28 21:14:41,Acesso e senha,Média,Presencial,Remoto,Bruno,Fechado,4,24
+245,2026-06-28 17:46:21,2026-06-29 01:29:33,Hardware,Alta,Telefone,Unidade Norte,Diego,Resolvido,3,8
+725,2026-06-29 04:14:04,2026-06-29 04:38:04,Software,Crítica,E-mail,Remoto,Bruno,Resolvido,5,4
+291,2026-06-29 04:20:57,2026-06-30 20:58:45,Software,Baixa,Telefone,Unidade Sul,Bruno,Resolvido,3,48
+769,2026-06-29 06:58:56,2026-06-29 09:27:08,Videoconferência,Alta,Telefone,Remoto,Carla,Fechado,5,8
+77,2026-06-29 08:13:01,2026-07-01 02:23:13,Rede e VPN,Média,Telefone,Sede,Carla,Fechado,3,24
+461,2026-06-29 10:05:24,2026-06-30 03:07:48,Hardware,Média,E-mail,Unidade Sul,Ana,Fechado,5,24
+386,2026-06-29 10:54:50,2026-06-29 16:19:26,Videoconferência,Alta,Portal,Unidade Norte,Diego,Fechado,4,8
+630,2026-06-29 14:00:55,2026-06-30 12:48:19,Software,Média,Presencial,Unidade Sul,Bruno,Fechado,2,24
+538,2026-06-29 21:57:14,2026-06-30 11:05:38,Rede e VPN,Alta,Portal,Unidade Norte,Ana,Resolvido,4,8
+547,2026-06-29 22:09:58,2026-06-30 21:45:58,Acesso e senha,Média,Presencial,Unidade Sul,Diego,Resolvido,4,24
+638,2026-06-30 04:34:38,2026-07-01 04:37:02,E-mail,Média,Presencial,Unidade Norte,Diego,Fechado,2,24
+514,2026-06-30 06:06:11,,Hardware,Média,Presencial,Unidade Sul,Ana,Em andamento,,24
+368,2026-06-30 13:00:57,2026-07-01 06:39:57,Hardware,Média,Presencial,Remoto,Ana,Resolvido,5,24
+214,2026-06-30 16:21:53,2026-07-02 17:14:05,Acesso e senha,Baixa,E-mail,Remoto,Carla,Fechado,3,48
